@@ -2,13 +2,15 @@
 RegNetDriver is a computational approach to identify regulatory drivers of tumorigenesis using combined effects of coding and non-coding single nucleotide variants, structural variants (SVs) and DNA methylation changes in the DNase I hypersensitivity based regulatory network
 We integrated whole-genome sequencing (WGS), RNA-Seq and DNA methylation data from primary prostate tumor samples with functional genomics data from the ENCODE and Roadmap Epigenomics projects. The three step computational model involves: (a) construction of prostate regulatory network using DNase I hypersensitivity data, (b) identification of significantly mutated, rearranged and differentially methylated coding and non-coding regulatory regions in prostate cancer and, (c) interpretation of the effects of these alterations on prostate regulatory network. We have provided scripts to construct tissue-specific regulatory network.
 
--- DHS_network folder contains source codes for tissue-specific regulatory network. It used DHS data and ENCODE promoter and enhancer annotations for creating tissue-specific DHS-based regulatory network
--- FSig-SNV (Functionally significant single nucleotide variant) folder contains source codes to find genes with significanlty mutated coding and non-coding (promoter and enhancer) regions . It analyzes the somatic mutations in both coding and non-coding regulatory regions to identify elements that show more recurrent (present in multiple samples) and more functional mutations than expected randomly. For functional annotation, the method uses FunSeq2 to annotate and calculate functional score for each variant. Output of FSig-SNV is a list of significantly mutated coding and non-coding elements that show higher than expected frequency of functional mutations across multiple tumor samples.
---FSig-SV (Functionally significant structural variants) folder contains source codes to find genes with significantly rearranged coding and non-coding (promoter and enhancer) regions. FSig-SV method identifies coding and non-coding elements significantly affected by deletion, insertion, duplication, inversion and translocation events. Output of the method is a list of coding and non-coding elements that are rearranged in more samples than expected randomly. 
+(A) DHS_network: folder contains source codes for tissue-specific regulatory network. It used DHS data and ENCODE promoter and enhancer annotations for creating tissue-specific DHS-based regulatory network
+
+(B) FSig-SNV (Functionally significant single nucleotide variant) folder contains source codes to find genes with significanlty mutated coding and non-coding (promoter and enhancer) regions . It analyzes the somatic mutations in both coding and non-coding regulatory regions to identify elements that show more recurrent (present in multiple samples) and more functional mutations than expected randomly. For functional annotation, the method uses FunSeq2 to annotate and calculate functional score for each variant. Output of FSig-SNV is a list of significantly mutated coding and non-coding elements that show higher than expected frequency of functional mutations across multiple tumor samples.
+
+(C) FSig-SV (Functionally significant structural variants) folder contains source codes to find genes with significantly rearranged coding and non-coding (promoter and enhancer) regions. FSig-SV method identifies coding and non-coding elements significantly affected by deletion, insertion, duplication, inversion and translocation events. Output of the method is a list of coding and non-coding elements that are rearranged in more samples than expected randomly. 
 --To identify differentially methylated promoters and enhancer using HM450K array data, we use ELMER package (https://www.bioconductor.org/packages/release/bioc/html/ELMER.html)
 
 
-How to run:
+How to run RegNetDriver:
 COMPUTATIONAL PIPELINE FOR IDENTIFYING GENETIC AND EPIGENETIC ALTERATIONS IN THE CODING AND NON-CODING REGULATORY REGIONS OF THE TUMOR GENOME AND STUDY THEIR EFFECTS ON TISSUE_SPECIFIC REGULATORY NETWORK                                           
 
 Steps involved:
@@ -49,7 +51,7 @@ Steps involved:
 
 2) Find genes with significantly mutated coding and non-coding regions (FSig-SNV):
 
-	Start by downloading FSig-SNV R package from github. See README.md for installation instructions. FSig-SNV requires annotated mutations from FunSeq2. In case of prostate tumor, we have SNVs calls from WGS data of 188 primary prostate adenocarcinoma. These 188 primary prostate sample includes 124 PRAD-CA samples from ICGC (https://dcc.icgc.org/projects/PRAD-CA), 57 samples from the work of Baca et al and 7 samples from Berger et al. 
+	Start by downloading FSig-SNV R package from github. See README.md for installation instructions. FSig-SNV requires annotated mutations from FunSeq2. In case of prostate tumor, we have SNVs calls from WGS data of 188 primary prostate adenocarcinoma. These 188 primary prostate sample includes 124 PRAD-CA samples from ICGC (https://dcc.icgc.org/projects/PRAD-CA), 57 samples from the work of Baca et al (PMID: 23622249)and 7 samples from Berger et al. (PMID: 21307934)
 
 	We annotated these SNVs using FunSeq2 (https://www.ncbi.nlm.nih.gov/pubmed/25273974). We used original FunSeq2 pre-built data context available at https://github.com/khuranalab/FunSeq2_DC/tree/master/data_context
 
@@ -59,7 +61,8 @@ Steps involved:
 
 
 3) Find genes with significantly rearranged coding and non-coding regions (FSig-SV):
-
+	Start by downloading FSig-SV R package from github. See README.md for installation instructions. FSig-SV requires SV file in bed format. See example.bed inside FSig-Sv/input/ directory. Inputs for running FSig-SV for analyzing prostate tumor: 
+Somatic Structural Variants ICGC SVs (https://dcc.icgc.org/projects/PRAD-CA), Baca et al (PMID: 23622249) and Berger et al (PMID: 21307934)
 
 4) Find genes with significanlty differentially methylated promoter and enhancer regions (ELMER):
 	We have used ELMER package. Output of ELMER is a list of genes with significantly hyper-methylated and hypo-methylated enhancers and promoters. We have enhancer definitions as used in running FSig-SV and FSig-SNV http://khuranalab.med.cornell.edu/FunSeq_data/FunSeq2_DC2/data/drm.gene.bed. 
