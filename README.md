@@ -11,19 +11,20 @@ We integrated whole-genome sequencing (WGS), RNA-Seq and DNA methylation data fr
 
 
 How to run RegNetDriver:
+
 COMPUTATIONAL PIPELINE FOR IDENTIFYING GENETIC AND EPIGENETIC ALTERATIONS IN THE CODING AND NON-CODING REGULATORY REGIONS OF THE TUMOR GENOME AND STUDY THEIR EFFECTS ON TISSUE_SPECIFIC REGULATORY NETWORK                                           
 
 Steps involved:
 
 1) Creation of Tissue-Specific Regulatory Network:
 
-	Start by uncompressing the tissue_specific_network.tar.gz
+	Start by uncompressing the tissue_specific_network.tar.gz (http://khuranalab.med.cornell.edu/tissue_specific_network/tissue_specific_network.tar.gz)
 	tar zxvf tissue_specific_network.tar.gz
 
 
 	tissue_specific_network directory contains following sub-directories and files
 
-	a) code: this folder contains following programs and scripts. spar.txt 
+	a) code: this folder contains following programs and scripts. 
 	PIQ_merge.pl :generates merged_files folder for PIQ output. It take PIQ output, which contains information about enrichment of TF motifs using  data.We used DHS data for prostate cell from ENCODE (https://www.encodeproject.org/experiments/ENCSR000EPU/) and encode TF motifs in JASPAR format (data/encode-motifs-Jaspar.txt ). The output of PIQcontains *-calls.csv and *.RC-calls.csv files. This program combines forward and reverse strand regions of motif enrichment into one file. 
 	  
 	PIQ_merged_files.sh : this script runs PIQ_merge.pl and takes directory containing PIQ output as input parameter.
@@ -36,7 +37,7 @@ Steps involved:
 
 	b) data : this folder contains input files for creating network
 
-	c) merged_files : this folder contains merged motif files from PIQ output for prostate. This is created using PIQ_merged_files.sh script. See this script for more details.
+	c) merged_files : this folder contains merged motif files from PIQ output for prostate. This is created using PIQ_merged_files.sh script. See this script for more details. It can be downloaded from (http://khuranalab.med.cornell.edu/tissue_specific_network/tissue_specific_network.tar.gz
 
 	d) NETWORK_OUTPUT: this folder contains final output of NETWORK_DHS_SCRIPT.sh. 
 	TF_TARGET_EDGES.txt file has edges between transcription factor (TF) nodes and target genes (TARGET_GENES)
@@ -48,6 +49,7 @@ Steps involved:
 
 	TO CREATE PROSTATE DHS NETWORK RUN THIS COMMAND
 	sh NETWORK_DHS_SCRIPT.sh PrEC-DS12088.peaks.fdr0.01.hg19.bed merged_files
+	Download example prostate regulatory network from 		http://khuranalab.med.cornell.edu/tissue_specific_network/tissue_specific_network.tar.gz
 
 2) Find genes with significantly mutated coding and non-coding regions (FSig-SNV):
 
