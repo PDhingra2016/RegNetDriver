@@ -1,0 +1,2064 @@
+SIX5_disc1 SIX5_GM12878_encode-Myers_seq_hsa_r1:MEME#1#Intergenic	SIX5
+MYC_disc1 USF2_K562_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic	USF2
+SRF_disc1 SRF_H1-hESC_encode-Myers_seq_hsa_r1:MDscan#2#Intergenic	SRF
+AP1_disc1 JUND_K562_encode-Snyder_seq_hsa_r1:MEME#1#Intergenic	JUND
+SIX5_disc2 SIX5_H1-hESC_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic	SIX5
+NFY_disc1 NFYA_K562_encode-Snyder_seq_hsa_r1:MEME#2#Intergenic	NFY	
+ATF3_disc1 ATF3_GM12878_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic	ATF3
+NFE2_disc1 NFE2_K562_encode-Snyder_seq_hsa_r1:AlignACE#1#Intergenic	NFE2
+NFE2_disc2 NFE2_GM12878_encode-Snyder_seq_hsa_H-230_r1:MDscan#3#Intergenic	NFE2
+BRCA1_disc1 BRCA1_GM12878_encode-Snyder_seq_hsa_IgG-mus-C-1863_r1:MEME#1#Intergenic	BRCA1
+AP1_disc2 FOS_GM12878_encode-Snyder_seq_hsa_r1:MEME#1#Intergenic	FOS
+CTCF_disc1 CTCF_HUVEC_encode-Crawford_seq_hsa_r1:MEME#3#Intergenic	CTCF
+CEBPB_disc1 CEBPB_HepG2_encode-Snyder_seq_hsa_IgG-rab_r1:MDscan#2#Intergenic	CEBPB
+ZBTB33_disc1 ZBTB33_HepG2_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic	ZBTB33
+ETS_disc1 ETS1_K562_encode-Myers_seq_hsa_v041610.1_r1:Trawler#1#Intergenic	ETS1
+AP1_disc3 FOS_K562_encode-White_seq_hsa_eGFP_r1:MDscan#3#Intergenic	FOS
+NRF1_disc1 NRF1_HeLa-S3_encode-Snyder_seq_hsa_IgG-mus_r1:MEME#2#Intergenic	NRF1
+REST_disc1 REST_GM12878_encode-Myers_seq_hsa_PCR2x_r1:MEME#2#Intergenic	REST
+YY1_disc1 YY1_NT2-D1_encode-Snyder_seq_hsa_r1:MEME#3#Intergenic	YY1
+RAD21_disc1 RAD21_GM12878_encode-Snyder_seq_hsa_IgG-rab_r1:MEME#3#Intergenic	RAD21
+ETS_disc2 GABPA_H1-hESC_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic	GABPA
+MAF_disc1 MAFK_K562_encode-Snyder_seq_hsa_IgG-rab-ab50322_r1:MDscan#1#Intergenic	MAFK
+SP2_disc1 SP2_K562_encode-Myers_seq_hsa_v041610.2-SC-643_r1:MEME#2#Intergenic	SP2
+IRF_disc1 IRF3_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab_r1:MDscan#3#Intergenic	IRF3
+REST_disc2 REST_U87_encode-Myers_seq_hsa_PCR2x_r1:MDscan#2#Intergenic	REST
+ETS_disc3 ETS1_GM12878_encode-Myers_seq_hsa_r1:MDscan#3#Intergenic	ETS1
+BCL_disc1 BCLAF1_K562_encode-Myers_seq_hsa_M33-P5B11_r1:MDscan#2#Intergenic	BCLAF1
+SP1_disc1 SP1_H1-hESC_encode-Myers_seq_hsa_r1:MEME#3#Intergenic	SP1
+NFKB_disc1 NFKB1_GM19193_encode-Snyder_seq_hsa_IgG-rab_r1:MDscan#1#Intergenic	NFKB1
+RFX5_disc1 RFX5_H1-hESC_encode-Snyder_seq_hsa_IgG-rab-N-494_r1:MDscan#1#Intergenic	RFX5
+SMC3_disc1 SMC3_GM12878_encode-Snyder_seq_hsa_IgG-mus-ab9263_r1:MEME#2#Intergenic	SMC3
+TAL1_disc1 TAL1_K562_encode-Snyder_seq_hsa_IgG-mus-SC-12984_r1:MEME#3#Intergenic	TAL1
+CHD2_disc1 CHD2_K562_encode-Snyder_seq_hsa_IgG-rab-N-1250_r1:MDscan#3#Intergenic	CHD2
+SPI1_disc1 SPI1_K562_encode-Myers_seq_hsa_r1:MDscan#2#Intergenic	SPI1
+RFX5_disc2 RFX5_GM12878_encode-Snyder_seq_hsa_IgG-mus-N-494_r1:MEME#1#Intergenic	RFX5
+GATA_disc1 GATA1_K562b_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic	GATA1
+ELF1_disc1 ELF1_HepG2_encode-Myers_seq_hsa_v041610.1-SC-631_r1:MDscan#3#Intergenic	ELF1
+POU2F2_disc1 POU2F2_GM12891_encode-Myers_seq_hsa_r1:Weeder#2#Intergenic	POU2F2
+BATF_disc1 BATF_GM12878_encode-Myers_seq_hsa_r1:AlignACE#1#Intergenic	BATF
+SIX5_disc3 SIX5_H1-hESC_encode-Myers_seq_hsa_r1:Trawler#2#Intergenic	SIX5
+NR2C2_disc1 NR2C2_HeLa-S3_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic	NR2C2
+HNF4_disc1 HNF4G_HepG2_encode-Myers_seq_hsa_v041610.1-SC-6558_r1:MEME#2#Intergenic	HNF4G
+BHLHE40_disc1 BHLHE40_HepG2_encode-Myers_seq_hsa_v041610.1_r1:MDscan#2#Intergenic	BHLHE40
+STAT_disc1 STAT1_HeLa-S3_encode-Snyder_seq_hsa_IFNg30_r1:MDscan#1#Intergenic	STAT1
+SPI1_disc2 SPI1_GM12878_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic	SPI1
+THAP1_disc1 THAP1_K562_encode-Myers_seq_hsa_v041610.1-SC-98174_r1:MEME#3#Intergenic	THAP1
+MXI1_disc1 MXI1_K562_encode-Snyder_seq_hsa_IgG-rab-bHLH_r1:MEME#3#Intergenic	MXI1
+TCF7L2_disc1 TCF7L2_HCT-116_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic	TCF7L2
+REST_disc3 REST_PFSK-1_encode-Myers_seq_hsa_PCR2x_r1:MEME#1#Intergenic	REST
+CTCF_disc2 CTCF_A549_encode-Myers_seq_hsa_DEX-100nM_r1:Trawler#1#Intergenic	CTCF
+SP2_disc2 SP2_K562_encode-Myers_seq_hsa_v041610.2-SC-643_r1:MEME#3#Intergenic	SP2
+EBF1_disc1 EBF1_GM12878_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic	EBF1
+STAT_disc2 STAT3_MCF10A-Er-Src_encode-Snyder_seq_hsa_EtOH-0.01pct-4hr_r1:MDscan#2#Intergenic	STAT3
+PRDM1_disc1 PRDM1_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab-Val90_r1:MDscan#1#Intergenic	PRDM1
+ZNF143_disc1 ZNF143_GM12878_encode-Snyder_seq_hsa_16618-1-AP_r1:MDscan#2#Intergenic	ZNF143
+SMARC_disc1 SMARCB1_HeLa-S3_encode-Snyder_seq_hsa_IgG-mus_r1:MEME#1#Intergenic	SMARCB1
+CTCF_disc3 CTCF_K562_encode-Crawford_seq_hsa_r1:Trawler#3#Intergenic	CTCF
+POU5F1_disc1 POU5F1_H1-hESC_encode-Myers_seq_hsa_v041610.2-SC-9081_r1:MEME#2#Intergenic	POU5F1
+EP300_disc1 EP300_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab-N-15_r1:MDscan#3#Intergenic	EP300
+FOXA_disc1 FOXA1_ECC-1_encode-Myers_seq_hsa_DMSO-0.02pct-v041610.2-C-20_r1:MDscan#1#Intergenic	FOXA1
+ESRRA_disc1 ESR1_T-47D_encode-Myers_seq_hsa_Genistein-100nM-v041610.2_r1:MEME#2#Intergenic	ESR1
+RAD21_disc2 RAD21_HepG2_encode-Snyder_seq_hsa_IgG-rab_r1:Weeder#2#Intergenic	RAD21
+PBX3_disc1 PBX3_GM12878_encode-Myers_seq_hsa_r1:MEME#1#Intergenic	PBX3
+SREBP_disc1 SREBF1_HepG2_encode-Snyder_seq_hsa_insulin_r1:MEME#2#Intergenic	SREBF1
+BCL_disc2 BCL11A_GM12878_encode-Myers_seq_hsa_r1:MDscan#3#Intergenic	BCL11A
+MYC_disc2 MYC_K562_encode-Crawford_seq_hsa_r1:MEME#2#Intergenic	MYC
+ATF3_disc2 ATF3_K562_encode-Snyder_seq_hsa_r1:MEME#3#Intergenic	ATF3
+CTCF_disc4 CTCF_HUVEC_encode-Crawford_seq_hsa_r1:AlignACE#3#Intergenic	CTCF
+E2F_disc1 E2F1_HeLa-S3_encode-Snyder_seq_hsa_r1:MDscan#2#Intergenic	E2F1
+ZNF143_disc2 ZNF143_GM12878_encode-Snyder_seq_hsa_16618-1-AP_r1:MEME#1#Intergenic	ZNF143
+ETS_disc4 GABPA_HepG2_encode-Myers_seq_hsa_PCR2x_r1:Trawler#3#Intergenic	GABPA
+EP300_disc2 EP300_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab-N-15_r1:MEME#2#Intergenic	EP300
+NR3C1_disc1 NR3C1_ECC-1_encode-Myers_seq_hsa_DEX-100nM-v041610.2_r1:MEME#2#Intergenic	NR3C1
+MYC_disc3 MAX_HeLa-S3_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic	MAX
+RAD21_disc3 RAD21_GM12878_encode-Snyder_seq_hsa_IgG-rab_r1:Trawler#2#Intergenic	RAD21
+STAT_disc3 STAT1_K562_encode-Snyder_seq_hsa_IFNa6h_r1:AlignACE#1#Intergenic	STAT1
+PAX5_disc1 PAX5_GM12891_encode-Myers_seq_hsa_v041610.1-C20_r1:MEME#3#Intergenic	PAX5
+NR3C1_disc2 NR3C1_A549_encode-Myers_seq_hsa_DEX-500pM_r1:MDscan#1#Intergenic	NR3C1
+SIN3A_disc1 SIN3A_H1-hESC_encode-Myers_seq_hsa_r1:MEME#2#Intergenic	SIN3A
+SIN3A_disc2 SIN3A_K562_encode-Myers_seq_hsa_v041610.1_r1:MDscan#1#Intergenic	SIN3A
+MEF2_disc1 MEF2C_GM12878_encode-Myers_seq_hsa_v041610.1-SC-13268_r1:MEME#2#Intergenic	MEF2C
+MYC_disc4 MAX_H1-hESC_encode-Snyder_seq_hsa_r1:MDscan#2#Intergenic	MAX
+NR3C1_disc3 NR3C1_HepG2_encode-Snyder_seq_hsa_forskolin-P20_r1:MDscan#1#Intergenic	NR3C1
+HSF_disc1 HSF1_HepG2_encode-Snyder_seq_hsa_forskolin_r1:MDscan#2#Intergenic	HSF1
+IRF_disc2 IRF4_GM12878_encode-Myers_seq_hsa_M-17_r1:MDscan#3#Intergenic	IRF4
+CTCFL_disc1 CTCFL_K562_encode-Myers_seq_hsa_v041610.1-SC-98982_r1:MDscan#2#Intergenic	CTCFL
+NR3C1_disc4 NR3C1_HepG2_encode-Snyder_seq_hsa_forskolin-P20_r1:MEME#2#Intergenic	NR3C1
+PAX5_disc2 PAX5_GM12891_encode-Myers_seq_hsa_v041610.1-C20_r1:MDscan#1#Intergenic	PAX5
+BCL_disc3 BCL3_H1-hESC_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic	BCL3
+RXRA_disc1 PPARGC1A_HepG2_encode-Snyder_seq_hsa_forskolin_r1:MDscan#2#Intergenic	PPARGC1A
+HDAC2_disc1 HDAC2_K562_encode-Myers_seq_hsa_v041610.2-SC-6296_r1:MEME#1#Intergenic	HDAC2
+CTCF_disc5 CTCF_A549_encode-Myers_seq_hsa_EtOH-0.02pct_r1:AlignACE#1#Intergenic	CTCF
+TATA_disc1 TAF1_GM12878_encode-Myers_seq_hsa_r1:MDscan#2#Intergenic	TAF1
+CTCF_disc6 CTCF_AoAF_encode-Stam_seq_hsa_r1:Trawler#2#Intergenic	CTCF
+TRIM28_disc1 TRIM28_U2OS_encode-Snyder_seq_hsa_r1:MDscan#3#Intergenic	TR1M28
+TFAP2_disc1 TFAP2A_HeLa-S3_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic	TFAP2A
+SMARC_disc2 SMARCC2_HeLa-S3_encode-Snyder_seq_hsa_IgG-mus_r1:MDscan#1#Intergenic	SMARCC2
+TCF7L2_disc2 TCF7L2_HepG2b_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic	TCF7L2
+AP1_disc4 JUND_GM12878_encode-Snyder_seq_hsa_r1:AlignACE#2#Intergenic	JUND
+REST_disc4 REST_GM12878_encode-Myers_seq_hsa_PCR2x_r1:AlignACE#1#Intergenic	REST
+PRDM1_disc2 PRDM1_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab-Val90_r1:MDscan#3#Intergenic	PRDM1
+CTCF_disc7 CTCF_GM12875_encode-Stam_seq_hsa_r1:Weeder#3#Intergenic	CTCF
+MAF_disc2 MAFF_HepG2_encode-Snyder_seq_hsa_IgG-rab-M8194_r1:Trawler#2#Intergenic	MAFF
+NR2C2_disc2 NR2C2_GM12878_encode-Snyder_seq_hsa_r1:MEME#1#Intergenic	NR2C2
+CCNT2_disc1 CCNT2_K562_encode-Snyder_seq_hsa_r1:MEME#3#Intergenic
+CTCF_disc8 CTCF_HMEC_encode-Bernstein_seq_hsa_r1:AlignACE#3#Intergenic
+MYC_disc5 MYC_K562_encode-Snyder_seq_hsa_r1:MDscan#2#Intergenic
+RAD21_disc4 RAD21_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab_r1:Trawler#1#Intergenic
+TAL1_disc2 TAL1_K562_encode-Snyder_seq_hsa_IgG-mus-SC-12984_r1:Trawler#3#Intergenic
+RXRA_disc2 RXRA_GM12878_encode-Myers_seq_hsa_r1:MEME#3#Intergenic
+IRF_disc3 IRF1_K562_encode-Snyder_seq_hsa_IFNa30_r1:MEME#2#Intergenic
+FOXA_disc2 FOXA1_HepG2_encode-Myers_seq_hsa_v041610.1-C-20_r1:Trawler#3#Intergenic
+E2F_disc2 E2F6_HeLa-S3_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic
+GATA_disc2 GATA2_HUVEC_encode-Snyder_seq_hsa_r1:MDscan#3#Intergenic
+CTCF_disc9 CTCF_HMF_encode-Stam_seq_hsa_r1:AlignACE#2#Intergenic
+TATA_disc2 TAF1_GM12891_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic
+TATA_disc3 TAF1_GM12892_encode-Myers_seq_hsa_v041610.2_r1:Trawler#2#Intergenic
+BCL_disc4 BCL11A_GM12878_encode-Myers_seq_hsa_r1:MEME#1#Intergenic
+RAD21_disc5 RAD21_SK-N-SH-RA_encode-Myers_seq_hsa_v041610.2_r1:AlignACE#2#Intergenic
+EGR1_disc1 EGR1_H1-hESC_encode-Myers_seq_hsa_v041610.1_r1:MDscan#2#Intergenic
+EP300_disc3 EP300_HepG2_encode-Myers_seq_hsa_r1:MEME#2#Intergenic
+SIN3A_disc3 SIN3A_H1-hESC_encode-Myers_seq_hsa_r1:Trawler#3#Intergenic
+BCL_disc5 BCL3_K562_encode-Myers_seq_hsa_r1:Weeder#2#Intergenic
+HMGN3_disc1 HMGN3_K562_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic
+AP1_disc5 FOS_K562_encode-White_seq_hsa_eGFP_r1:Trawler#3#Intergenic
+AP1_disc6 JUND_H1-hESC_encode-Myers_seq_hsa_v041610.2_r1:MEME#2#Intergenic
+PBX3_disc2 PBX3_GM12878_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic
+HEY1_disc1 HEY1_K562_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic
+SIRT6_disc1 SIRT6_K562_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic
+TCF12_disc1 TCF12_H1-hESC_encode-Myers_seq_hsa_r1:MEME#1#Intergenic
+PBX3_disc3 PBX3_GM12878_encode-Myers_seq_hsa_r1:MEME#3#Intergenic
+HNF4_disc2 HNF4A_HepG2_encode-Myers_seq_hsa_v041610.1-H-171_r1:Trawler#3#Intergenic
+REST_disc5 REST_HepG2_encode-Myers_seq_hsa_PCR2x_r1:AlignACE#2#Intergenic
+MYC_disc6 USF2_GM12878_encode-Snyder_seq_hsa_IgG-mus_r1:Trawler#1#Intergenic
+NFKB_disc2 NFKB1_GM12878_encode-Snyder_seq_hsa_TNFa_r1:AlignACE#2#Intergenic
+IRF_disc4 IRF1_K562_encode-Snyder_seq_hsa_IFNg6h_r1:MEME#2#Intergenic
+TCF12_disc2 TCF12_HepG2_encode-Myers_seq_hsa_r1:MDscan#2#Intergenic
+NFKB_disc3 NFKB1_GM10847_encode-Snyder_seq_hsa_IgG-rab_r1:Trawler#1#Intergenic
+SETDB1_disc1 SETDB1_K562b_encode-Snyder_seq_hsa_r1:MEME#3#Intergenic
+BCL_disc6 BCL3_GM12878_encode-Myers_seq_hsa_r1:MEME#1#Intergenic
+ZBTB33_disc2 ZBTB33_HepG2_encode-Myers_seq_hsa_r1:AlignACE#2#Intergenic
+IRF_disc5 IRF4_GM12878_encode-Myers_seq_hsa_M-17_r1:AlignACE#2#Intergenic
+HDAC2_disc2 HDAC2_HepG2_encode-Myers_seq_hsa_v041610.1-SC-6296_r1:MDscan#1#Intergenic
+RAD21_disc6 RAD21_HepG2_encode-Snyder_seq_hsa_IgG-rab_r1:AlignACE#3#Intergenic
+PAX5_disc3 PAX5_GM12878_encode-Myers_seq_hsa_N19_r1:MEME#1#Intergenic
+ETS_disc5 ETS1_K562_encode-Myers_seq_hsa_v041610.1_r1:Weeder#2#Intergenic
+E2F_disc3 E2F4_K562b_encode-Snyder_seq_hsa_r1:MEME#2#Intergenic
+CTCF_disc10 CTCF_HepG2_encode-Myers_seq_hsa_v041610.1_r1:Trawler#1#Intergenic
+RAD21_disc7 RAD21_H1-hESC_encode-Myers_seq_hsa_v041610.2_r1:AlignACE#2#Intergenic
+EP300_disc4 EP300_HepG2_encode-Myers_seq_hsa_r1:Trawler#2#Intergenic
+TATA_disc4 TBP_K562_encode-Snyder_seq_hsa_IgG-mus_r1:MEME#1#Intergenic
+NANOG_disc1 NANOG_H1-hESC_encode-Myers_seq_hsa_v041610.2-SC-33759_r1:MDscan#3#Intergenic
+STAT_disc4 STAT3_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab_r1:Trawler#1#Intergenic
+REST_disc6 REST_H1-hESC_encode-Myers_seq_hsa_v041610.2_r1:Trawler#2#Intergenic
+ZEB1_disc1 ZEB1_GM12878_encode-Myers_seq_hsa_v041610.2-SC-25388_r1:MEME#2#Intergenic
+EGR1_disc2 EGR1_GM12878_encode-Myers_seq_hsa_PCR2x_r1:MEME#1#Intergenic
+EP300_disc5 EP300_GM12878_encode-Myers_seq_hsa_r1:MEME#2#Intergenic
+RXRA_disc3 RXRA_GM12878_encode-Myers_seq_hsa_r1:MDscan#1#Intergenic
+RAD21_disc8 RAD21_HepG2_encode-Myers_seq_hsa_v041610.1_r1:AlignACE#1#Intergenic
+MXI1_disc2 MXI1_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab-bHLH_r1:MDscan#3#Intergenic
+NANOG_disc2 NANOG_H1-hESC_encode-Myers_seq_hsa_v041610.2-SC-33759_r1:MEME#2#Intergenic
+E2F_disc4 E2F4_K562b_encode-Snyder_seq_hsa_r1:MDscan#1#Intergenic
+HDAC2_disc3 HDAC2_H1-hESC_encode-Myers_seq_hsa_v041610.2-SC-6296_r1:MEME#3#Intergenic
+MEF2_disc2 MEF2C_GM12878_encode-Myers_seq_hsa_v041610.1-SC-13268_r1:Trawler#2#Intergenic
+RFX5_disc3 RFX5_GM12878_encode-Snyder_seq_hsa_IgG-mus-N-494_r1:Trawler#2#Intergenic
+ZNF143_disc3 ZNF143_GM12878_encode-Snyder_seq_hsa_16618-1-AP_r1:AlignACE#1#Intergenic
+SMC3_disc2 SMC3_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab-ab9263_r1:Trawler#1#Intergenic
+MYC_disc7 MAX_GM12878_encode-Snyder_seq_hsa_r1:Trawler#1#Intergenic
+ZBTB7A_disc1 ZBTB7A_K562_encode-Myers_seq_hsa_v041610.1-SC-34508_r1:MDscan#2#Intergenic
+MEF2_disc3 MEF2C_GM12878_encode-Myers_seq_hsa_v041610.1-SC-13268_r1:Trawler#1#Intergenic
+RAD21_disc9 RAD21_K562_encode-Snyder_seq_hsa_r1:Trawler#3#Intergenic
+TATA_disc5 TAF1_K562_encode-Myers_seq_hsa_v041610.1_r1:Trawler#3#Intergenic
+NFKB_disc4 NFKB1_GM18951_encode-Snyder_seq_hsa_IgG-rab_r1:Trawler#2#Intergenic
+RAD21_disc10 RAD21_SK-N-SH-RA_encode-Myers_seq_hsa_v041610.2_r1:AlignACE#3#Intergenic
+PAX5_disc4 PAX5_GM12892_encode-Myers_seq_hsa_v041610.1-C20_r1:MEME#1#Intergenic
+SETDB1_disc2 SETDB1_U2OS_encode-Snyder_seq_hsa_r1:MDscan#2#Intergenic
+REST_disc7 REST_H1-hESC_encode-Myers_seq_hsa_r1:Trawler#2#Intergenic
+SMC3_disc3 SMC3_K562_encode-Snyder_seq_hsa_IgG-rab-ab9263_r1:AlignACE#2#Intergenic
+IRF_disc6 IRF4_GM12878_encode-Myers_seq_hsa_M-17_r1:Trawler#3#Intergenic
+BATF_disc2 BATF_GM12878_encode-Myers_seq_hsa_r1:Trawler#3#Intergenic
+MYC_disc8 MYC_HUVEC_encode-Crawford_seq_hsa_r1:Trawler#3#Intergenic
+THAP1_disc2 THAP1_K562_encode-Myers_seq_hsa_v041610.1-SC-98174_r1:Trawler#2#Intergenic
+SMC3_disc4 SMC3_GM12878_encode-Snyder_seq_hsa_IgG-mus-ab9263_r1:Weeder#2#Intergenic
+RXRA_disc4 RXRA_GM12878_encode-Myers_seq_hsa_r1:MEME#1#Intergenic
+SIX5_disc4 SIX5_H1-hESC_encode-Myers_seq_hsa_r1:Trawler#1#Intergenic
+NRF1_disc2 NRF1_H1-hESC_encode-Snyder_seq_hsa_IgG-rab_r1:Trawler#1#Intergenic
+BDP1_disc1 GTF3C2_K562_encode-Snyder_seq_hsa_r1:MEME#3#Intergenic
+GATA_disc3 GATA2_HUVEC_encode-Snyder_seq_hsa_r1:MEME#2#Intergenic
+NFE2_disc3 NFE2_GM12878_encode-Snyder_seq_hsa_H-230_r1:AlignACE#2#Intergenic
+HDAC2_disc4 HDAC2_H1-hESC_encode-Myers_seq_hsa_v041610.2-SC-6296_r1:MDscan#2#Intergenic
+NFE2_disc4 NFE2_K562_encode-Snyder_seq_hsa_r1:AlignACE#3#Intergenic
+EP300_disc6 EP300_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab-N-15_r1:Trawler#2#Intergenic
+EGR1_disc3 EGR1_GM12878_encode-Myers_seq_hsa_v041610.1_r1:MDscan#3#Intergenic
+HDAC2_disc5 HDAC2_HepG2_encode-Myers_seq_hsa_v041610.1-SC-6296_r1:Trawler#3#Intergenic
+REST_disc8 REST_HeLa-S3_encode-Myers_seq_hsa_r1:AlignACE#2#Intergenic
+ATF3_disc3 ATF3_H1-hESC_encode-Myers_seq_hsa_v041610.2_r1:Trawler#3#Intergenic
+ESRRA_disc2 ESRRA_HepG2_encode-Snyder_seq_hsa_forskolin_r1:MEME#2#Intergenic
+MYC_disc9 MAX_HUVEC_encode-Snyder_seq_hsa_r1:AlignACE#1#Intergenic
+NR3C1_disc5 NR3C1_ECC-1_encode-Myers_seq_hsa_DEX-100nM-v041610.2_r1:Trawler#3#Intergenic
+HMGN3_disc2 HMGN3_K562_encode-Snyder_seq_hsa_r1:MEME#2#Intergenic
+BDP1_disc2 GTF3C2_K562_encode-Snyder_seq_hsa_r1:Weeder#3#Intergenic
+AP1_disc7 FOS_HUVEC_encode-Snyder_seq_hsa_r1:AlignACE#2#Intergenic
+AP1_disc8 JUN_HUVEC_encode-Snyder_seq_hsa_r1:Trawler#2#Intergenic
+TATA_disc6 TBP_GM12878_encode-Snyder_seq_hsa_IgG-mus_r1:MEME#1#Intergenic
+ESRRA_disc3 ESR1_T-47D_encode-Myers_seq_hsa_Genistein-100nM-v041610.2_r1:Trawler#3#Intergenic
+MYC_disc10 MYC_HUVEC_encode-Crawford_seq_hsa_r1:AlignACE#1#Intergenic
+TCF12_disc3 TCF12_H1-hESC_encode-Myers_seq_hsa_r1:Trawler#2#Intergenic
+SPI1_disc3 SPI1_GM12878_encode-Myers_seq_hsa_r1:AlignACE#2#Intergenic
+BCL_disc7 BCL3_H1-hESC_encode-Myers_seq_hsa_r1:Trawler#1#Intergenic
+ETS_disc6 ETS1_GM12878_encode-Myers_seq_hsa_r1:Trawler#3#Intergenic
+TCF12_disc4 TCF12_GM12878_encode-Myers_seq_hsa_r1:Trawler#2#Intergenic
+TATA_disc7 TAF1_GM12891_encode-Myers_seq_hsa_r1:MEME#2#Intergenic
+CHD2_disc2 CHD2_K562_encode-Snyder_seq_hsa_IgG-rab-N-1250_r1:Trawler#1#Intergenic
+BATF_disc3 BATF_GM12878_encode-Myers_seq_hsa_r1:Trawler#2#Intergenic
+NANOG_disc3 NANOG_H1-hESC_encode-Myers_seq_hsa_v041610.2-SC-33759_r1:MEME#1#Intergenic
+EGR1_disc4 EGR1_GM12878_encode-Myers_seq_hsa_PCR2x_r1:MEME#3#Intergenic
+TATA_disc8 TAF1_HeLa-S3_encode-Myers_seq_hsa_r1:Weeder#3#Intergenic
+SRF_disc2 SRF_HepG2_encode-Myers_seq_hsa_v041610.1_r1:AlignACE#3#Intergenic
+E2F_disc5 E2F1_HeLa-S3_encode-Snyder_seq_hsa_HA_r1:Trawler#2#Intergenic
+TFAP2_disc2 TFAP2A_HeLa-S3_encode-Snyder_seq_hsa_r1:MEME#2#Intergenic
+AP1_disc9 FOSL1_K562_encode-Myers_seq_hsa_v041610.1-SC-183_r1:Trawler#3#Intergenic
+NANOG_disc4 NANOG_H1-hESC_encode-Myers_seq_hsa_v041610.2-SC-33759_r1:MDscan#1#Intergenic
+REST_disc9 REST_HTB-11_encode-Myers_seq_hsa_PCR2x_r1:AlignACE#2#Intergenic
+AP1_disc10 FOS_GM12878_encode-Snyder_seq_hsa_r1:AlignACE#1#Intergenic
+GATA_disc4 GATA3_T-47D_encode-Myers_seq_hsa_DMSO-0.02pct-v041610.2-SC-268_r1:Trawler#3#Intergenic
+EP300_disc7 EP300_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab-N-15_r1:Trawler#3#Intergenic
+NR3C1_disc6 NR3C1_A549_encode-Myers_seq_hsa_DEX-100nM-PCR2x_r1:AlignACE#2#Intergenic
+HNF4_disc3 HNF4A_HepG2_encode-Snyder_seq_hsa_forskolin_r1:Trawler#2#Intergenic
+BDP1_disc3 POLR3A_HeLa-S3_encode-Snyder_seq_hsa_r1:AlignACE#1#Intergenic
+E2F_disc6 E2F4_K562b_encode-Snyder_seq_hsa_r1:MDscan#3#Intergenic
+SIN3A_disc4 SIN3A_H1-hESC_encode-Myers_seq_hsa_r1:Trawler#2#Intergenic
+PAX5_disc5 PAX5_GM12891_encode-Myers_seq_hsa_v041610.1-C20_r1:MDscan#2#Intergenic
+YY1_disc2 YY1_SK-N-SH-RA_encode-Myers_seq_hsa_v041610.2-C-20_r1:Trawler#2#Intergenic
+ZNF263_disc1 ZNF263_T-REx-HEK293_encode-Snyder_seq_hsa_r1:MEME#1#Intergenic
+GATA_disc5 GATA3_T-47D_encode-Myers_seq_hsa_DMSO-0.02pct-v041610.2-SC-268_r1:Trawler#2#Intergenic
+ESRRA_disc4 ESRRA_HepG2_encode-Snyder_seq_hsa_forskolin_r1:AlignACE#1#Intergenic
+FOXA_disc3 FOXA1_ECC-1_encode-Myers_seq_hsa_DMSO-0.02pct-v041610.2-C-20_r1:Trawler#2#Intergenic
+ZBTB7A_disc2 ZBTB7A_K562_encode-Myers_seq_hsa_v041610.1-SC-34508_r1:Trawler#1#Intergenic
+YY1_disc3 YY1_K562_encode-Myers_seq_hsa_v041610.1_r1:AlignACE#2#Intergenic
+TATA_disc9 TBP_GM12878_encode-Snyder_seq_hsa_IgG-mus_r1:MDscan#2#Intergenic
+TATA_disc10 TAF1_HepG2_encode-Myers_seq_hsa_PCR2x_r1:AlignACE#3#Intergenic
+SIN3A_disc5 SIN3A_H1-hESC_encode-Myers_seq_hsa_r1:AlignACE#2#Intergenic
+EGR1_disc5 EGR1_K562_encode-Myers_seq_hsa_v041610.1_r1:Trawler#3#Intergenic
+EP300_disc8 EP300_T-47D_encode-Myers_seq_hsa_DMSO-0.02pct-v041610.2_r1:MDscan#3#Intergenic
+BCL_disc8 BCLAF1_K562_encode-Myers_seq_hsa_M33-P5B11_r1:AlignACE#3#Intergenic
+HNF4_disc4 HNF4G_HepG2_encode-Myers_seq_hsa_v041610.1-SC-6558_r1:Trawler#1#Intergenic
+RXRA_disc5 RXRA_GM12878_encode-Myers_seq_hsa_r1:Trawler#2#Intergenic
+ZBTB33_disc3 ZBTB33_HepG2_encode-Myers_seq_hsa_r1:Trawler#1#Intergenic
+EBF1_disc2 EBF1_GM12878_encode-Snyder_seq_hsa_r1:AlignACE#2#Intergenic
+TRIM28_disc2 TRIM28_K562b_encode-Snyder_seq_hsa_r1:Trawler#3#Intergenic
+REST_disc10 REST_H1-hESC_encode-Myers_seq_hsa_v041610.2_r1:Trawler#3#Intergenic
+FOXA_disc4 FOXA1_T-47D_encode-Myers_seq_hsa_DMSO-0.02pct-v041610.2-C-20_r1:Trawler#3#Intergenic
+ELF1_disc2 ELF1_HepG2_encode-Myers_seq_hsa_v041610.1-SC-631_r1:AlignACE#3#Intergenic
+ETS_disc7 ETS1_GM12878_encode-Myers_seq_hsa_r1:AlignACE#2#Intergenic
+FOXA_disc5 FOXA1_HepG2_encode-Myers_seq_hsa_v041610.1-C-20_r1:Trawler#1#Intergenic
+TCF12_disc5 TCF12_H1-hESC_encode-Myers_seq_hsa_r1:AlignACE#3#Intergenic
+SP2_disc3 SP2_K562_encode-Myers_seq_hsa_v041610.2-SC-643_r1:Trawler#3#Intergenic
+STAT_disc5 STAT3_MCF10A-Er-Src_encode-Snyder_seq_hsa_EtOH-0.01pct-4hr_r1:Trawler#1#Intergenic
+NR2C2_disc3 NR2C2_HepG2b_encode-Snyder_seq_hsa_r1:Trawler#3#Intergenic
+SP1_disc2 SP1_GM12878_encode-Myers_seq_hsa_r1:Trawler#1#Intergenic
+E2F_disc7 E2F4_K562b_encode-Snyder_seq_hsa_r1:AlignACE#1#Intergenic
+TCF12_disc6 TCF12_H1-hESC_encode-Myers_seq_hsa_r1:Trawler#1#Intergenic
+HEY1_disc2 HEY1_K562_encode-Myers_seq_hsa_r1:AlignACE#1#Intergenic
+NRF1_disc3 NRF1_K562_encode-Snyder_seq_hsa_IgG-rab_r1:AlignACE#3#Intergenic
+ATF3_disc4 ATF3_H1-hESC_encode-Myers_seq_hsa_v041610.2_r1:AlignACE#2#Intergenic
+SIN3A_disc6 SIN3A_H1-hESC_encode-Myers_seq_hsa_r1:AlignACE#3#Intergenic
+BCL_disc9 BCLAF1_GM12878_encode-Myers_seq_hsa_v041610.1-M33-P5B11_r1:AlignACE#1#Intergenic
+YY1_disc4 YY1_GM12892_encode-Myers_seq_hsa_v041610.1_r1:AlignACE#1#Intergenic
+ZNF143_disc4 ZNF143_GM12878_encode-Snyder_seq_hsa_16618-1-AP_r1:AlignACE#3#Intergenic
+ETS_disc8 GABPA_H1-hESC_encode-Myers_seq_hsa_r1:Trawler#1#Intergenic
+POU2F2_disc2 POU2F2_GM12891_encode-Myers_seq_hsa_r1:AlignACE#1#Intergenic
+EGR1_disc6 EGR1_GM12878_encode-Myers_seq_hsa_v041610.1_r1:AlignACE#2#Intergenic
+CHD2_disc3 CHD2_GM12878_encode-Snyder_seq_hsa_IgG-mus-N-1250_r1:AlignACE#2#Intergenic
+HNF4_disc5 HNF4G_HepG2_encode-Myers_seq_hsa_v041610.1-SC-6558_r1:Trawler#2#Intergenic
+GATA_disc6 GATA2_K562_encode-Myers_seq_hsa_CG2-96_r1:Trawler#3#Intergenic
+EGR1_disc7 EGR1_GM12878_encode-Myers_seq_hsa_PCR2x_r1:MDscan#2#Intergenic
+EP300_disc9 EP300_H1-hESC_encode-Myers_seq_hsa_v041610.2_r1:AlignACE#3#Intergenic
+BCL_disc10 BCLAF1_GM12878_encode-Myers_seq_hsa_v041610.1-M33-P5B11_r1:AlignACE#3#Intergenic
+SP1_disc3 SP1_HepG2_encode-Myers_seq_hsa_r1:MEME#2#Intergenic
+ETS_disc9 GABPA_K562_encode-Myers_seq_hsa_v041610.1_r1:AlignACE#2#Intergenic
+ZBTB33_disc4 ZBTB33_HepG2_encode-Myers_seq_hsa_v041610.1_r1:Trawler#2#Intergenic
+CCNT2_disc2 CCNT2_K562_encode-Snyder_seq_hsa_r1:MDscan#2#Intergenic
+YY1_disc5 YY1_GM12878_encode-Myers_seq_hsa_v041610.1_r1:AlignACE#1#Intergenic
+E2F_disc8 E2F1_MCF-7_encode-Snyder_seq_hsa_HA_r1:AlignACE#3#Intergenic
+STAT_disc6 STAT3_MCF10A-Er-Src_encode-Snyder_seq_hsa_EtOH-0.01pct-4hr_r1:Trawler#3#Intergenic
+POU5F1_disc2 POU5F1_H1-hESC_encode-Myers_seq_hsa_v041610.2-SC-9081_r1:Trawler#1#Intergenic
+SIN3A_disc7 SIN3A_H1-hESC_encode-Myers_seq_hsa_r1:AlignACE#1#Intergenic
+STAT_disc7 STAT3_MCF10A-Er-Src_encode-Snyder_seq_hsa_EtOH-0.01pct-4hr_r1:AlignACE#3#Intergenic
+CEBPB_disc2 CEBPB_K562_encode-Snyder_seq_hsa_IgG-rab_r1:Trawler#1#Intergenic
+ELF1_disc3 ELF1_K562_encode-Myers_seq_hsa_v041610.2-SC-631_r1:AlignACE#1#Intergenic
+BHLHE40_disc2 BHLHE40_HepG2_encode-Myers_seq_hsa_v041610.1_r1:AlignACE#2#Intergenic
+EP300_disc10 EP300_HeLa-S3_encode-Snyder_seq_hsa_IgG-rab-N-15_r1:AlignACE#3#Intergenic
+HDAC2_disc6 HDAC2_H1-hESC_encode-Myers_seq_hsa_v041610.2-SC-6296_r1:MEME#2#Intergenic
+MYOD1_1	MyoD_transfac_M00001
+TCF3_1	E47_transfac_M00002
+MYB_1	c-Myb_transfac_M00004
+TFAP4_1	AP-4_transfac_M00005
+MEF2_known1	MYEF2_1	MEF-2_transfac_M00006
+ETS_known1	ELK1_1	Elk-1_transfac_M00007
+SP1_known1	SP1_1	Sp1_transfac_M00008
+RUNX1_1	Evi-1_transfac_M00011
+ATF3_known1	ATF1_1	ATF_transfac_M00017
+HOXA5_1	HOXA5-(Hox-1.3)_transfac_M00023
+E2F_known1	E2F1_1	E2F_transfac_M00024
+ETS_known2	ELK1_2	Elk-1_transfac_M00025
+MEF2_known2	MEF2A_1	RSRFC4_transfac_M00026
+ETS_known3	ETS1_1	c-Ets-1(p54)_transfac_M00032
+EP300_known1	EP300_1	p300_transfac_M00033
+TP53_1	p53_transfac_M00034
+NFE2_known1	NFE2_1	NF-E2_transfac_M00037
+ATF3_known2	CREB1_1	CREB_transfac_M00039
+ATF2_1	ATF2_transfac_M00040
+ATF2_3	ATF2:c-Jun_transfac_M00041
+SOX5_1	SOX5_transfac_M00042
+NFIL3_1	E4BP4_transfac_M00045
+E2F_known2	E2F1_2	E2F_transfac_M00050
+NFKB_known1	NFKB1_1	NF-kappaB-(p50)_transfac_M00051
+NFKB_known2	RELA_1	NF-kappaB-(p65)_transfac_M00052
+REL_1	c-Rel_transfac_M00053
+NFKB_known3	NFKB_1	NF-kappaB_transfac_M00054
+MYCN_1	N-Myc_transfac_M00055
+NFIC_1	myogenin-/-NF-1_transfac_M00056
+COMP1_1	COMP1_transfac_M00057
+NHLH1_1	HEN1_transfac_M00058
+YY1_known1	YY1_1	YY1_transfac_M00059
+IRF_known1	IRF1_1	IRF-1_transfac_M00062
+IRF_known2	IRF2_1	IRF-2_transfac_M00063
+TAL1_known1	TAL1_1	Tal-1beta:E47_transfac_M00065
+TAL1_known2	TAL1_2	Tal-1alpha:E47_transfac_M00066
+NHLH1_2	HEN1_transfac_M00068
+YY1_known2	YY1_2	YY1_transfac_M00069
+TAL1_known3	TAL1_3	Tal-1beta:ITF-2_transfac_M00070
+TCF3_2	E47_transfac_M00071
+TFCP2_1	CP2_transfac_M00072
+GATA_known1	GATA1_1	GATA-1_transfac_M00075
+GATA_known2	GATA2_1	GATA-2_transfac_M00076
+GATA_known3	GATA3_1	GATA-3_transfac_M00077
+RUNX1_2	Evi-1_transfac_M00078
+RUNX1_3	Evi-1_transfac_M00079
+RUNX1_4	Evi-1_transfac_M00080
+RUNX1_5	Evi-1_transfac_M00081
+RUNX1_6	Evi-1_transfac_M00082
+MZF1_1	MZF1_transfac_M00083
+MZF1_2	MZF1_transfac_M00084
+ZBTB6_1	ZID_transfac_M00085
+IKZF1_1	Ik-1_transfac_M00086
+IKZF2_1	Ik-2_transfac_M00087
+IKZF3_1	Ik-3_transfac_M00088
+CUX1_1	CDP_transfac_M00095
+PBX1_1	Pbx-1_transfac_M00096
+PAX6_1	Pax-6_transfac_M00097
+PAX2_1	Pax-2_transfac_M00098
+PRRX2_1	S8_transfac_M00099
+CUX1_2	CDP_transfac_M00102
+CUX1_3	CDP-CR1_transfac_M00104
+CUX1_4	CDP-CR3_transfac_M00105
+CUX1_5	CDP-CR3+HD_transfac_M00106
+NFE2L2_1	Nrf-2_transfac_M00108
+CEBPB_known1	CEBPB_1	C/EBPbeta_transfac_M00109
+ATF3_known3	CREB1_2	CREB_transfac_M00113
+ATF3_known4	CREB1_3	Tax/CREB_transfac_M00114
+ATF3_known5	CREB1_4	Tax/CREB_transfac_M00115
+CEBPA_1	C/EBPalpha_transfac_M00116
+CEBPB_known2	CEBPB_2	C/EBPbeta_transfac_M00117
+MYC_known1	MYC::MAX_1	c-Myc:Max_transfac_M00118
+MYC_known2	MAX_1	Max_transfac_M00119
+MYC_known3	USF_1	USF_transfac_M00121
+MYC_known4	USF_2	USF_transfac_M00122
+MYC_known5	MYC::MAX_2	c-Myc:Max_transfac_M00123
+PBX1_2	Pbx-1b_transfac_M00124
+GATA_known4	GATA1_2	GATA-1_transfac_M00126
+GATA_known5	GATA1_3	GATA-1_transfac_M00127
+GATA_known6	GATA1_4	GATA-1_transfac_M00128
+FOXQ1_1	HFH1-(FOXQ1)_transfac_M00129
+FOXD3_1	FOXD3_transfac_M00130
+FOXA_known1	FOXA2_1	HNF3beta_transfac_M00131
+HNF1_1	HNF1_transfac_M00132
+CCDC6_1	Tst-1_transfac_M00133
+HNF4_known1	HNF4A_1	HNF4_transfac_M00134
+POU2F2_known1	POU2F1_1	Oct-1_transfac_M00135
+POU2F2_known2	POU2F1_2	Oct-1_transfac_M00136
+POU2F2_known3	POU2F1_3	Oct-1_transfac_M00137
+POU2F2_known4	POU2F1_4	Oct-1_transfac_M00138
+AHR_1	AhR_transfac_M00139
+IKZF1_2	Lyf-1_transfac_M00141
+PAX5_known1	PAX5_1	Pax-5_transfac_M00143
+PAX5_known2	PAX5_2	Pax-5_transfac_M00144
+POU3F2_1	Brn-2_transfac_M00145
+HSF_known1	HSF1_1	HSF1_transfac_M00146
+HSF2_1	HSF2_transfac_M00147
+SRY_1	SRY_transfac_M00148
+T_1	Brachyury_transfac_M00150
+SRF_known1	SRF_1	SRF_transfac_M00152
+NR2F2_1	ARP-1-(COUP-TF2)_transfac_M00155
+RORA_1	RORalpha1_transfac_M00156
+RORA_2	RORalpha2_transfac_M00157
+HNF4_known2	HNF4_1	COUP-TF,-HNF-4_transfac_M00158
+CEBPB_known3	CEBP_1	C/EBP_transfac_M00159
+SRY_2	SRY_transfac_M00160
+POU2F2_known5	POU2F1_5	Oct-1_transfac_M00161
+POU2F2_known6	POU2F1_6	Oct-1_transfac_M00162
+AP1_known1	AP1_2	AP-1_transfac_M00172
+AP1_known2	AP1_3	AP-1_transfac_M00173
+AP1_known3	AP1_4	AP-1_transfac_M00174
+TFAP4_2	AP-4_transfac_M00175
+TFAP4_3	AP-4_transfac_M00176
+ATF3_known6	CREB1_5	CREB_transfac_M00177
+ATF3_known7	CREB1_6	CREB_transfac_M00178
+ATF2_2	ATF2_transfac_M00179
+MYB_2	c-Myb_transfac_M00183
+MYOD1_2	MyoD_transfac_M00184
+NFY_known1	NFY_1	NF-Y_transfac_M00185
+SRF_known2	SRF_2	SRF_transfac_M00186
+MYC_known6	USF_3	USF_transfac_M00187
+AP1_known4	AP1_5	AP-1_transfac_M00188
+TFAP2_known1	TFAP2_1	AP-2_transfac_M00189
+CEBPB_known4	CEBP_2	C/EBP_transfac_M00190
+ESRRA_known1	ESR1_1	ER_transfac_M00191
+NR3C1_known1	NR3C1_1	GR_transfac_M00192
+NFIC_2	NF-1_transfac_M00193
+NFKB_known4	NFKB_2	NF-kappaB_transfac_M00194
+POU2F2_known7	POU2F1_7	Oct-1_transfac_M00195
+SP1_known2	SP1_2	Sp1_transfac_M00196
+AP1_known5	AP1_6	AP-1_transfac_M00199
+CEBPB_known5	CEBP_3	C/EBP_transfac_M00201
+GATA_known7	GATA_1	GATA-X_transfac_M00203
+NR3C1_known2	NR3C1_2	GR_transfac_M00205
+HNF1_2	HNF1_transfac_M00206
+NFKB_known5	NFKB_3	NF-kappaB_transfac_M00208
+NFY_known2	NFY_2	NF-Y_transfac_M00209
+POU2F2_known8	POU_1	OCT-x_transfac_M00210
+SEF1_1	SEF-1_transfac_M00214
+SRF_known3	SRF_3	SRF_transfac_M00215
+TATA_known1	TBP_1	TATA_transfac_M00216
+MYC_known7	USF_4	USF_transfac_M00217
+SREBP_known1	SREBF1_1	SREBP-1_transfac_M00220
+SREBP_known2	SREBF1_2	SREBP-1_transfac_M00221
+HAND1_1	Hand1:E47_transfac_M00222
+STAT_known1	STAT_1	STATx_transfac_M00223
+STAT_known2	STAT1_1	STAT1_transfac_M00224
+STAT_known3	STAT3_1	STAT3_transfac_M00225
+MEF2_known3	MYEF2_2	MEF-2_transfac_M00231
+MEF2_known4	MYEF2_3	MEF-2_transfac_M00232
+MEF2_known5	MYEF2_4	MEF-2_transfac_M00233
+AHR::ARNT_1	AhR:Arnt_transfac_M00235
+ARNT_1	Arnt_transfac_M00236
+AHR::ARNT_2	AhR:Arnt_transfac_M00237
+NKX2-5_1	Nkx2-5_transfac_M00240
+NKX2-5_2	Nkx2-5_transfac_M00241
+PPARA_1	PPARalpha:RXRalpha_transfac_M00242
+EGR1_known1	EGR1_1	Egr-1_transfac_M00243
+EGR4_1	NGFI-C_transfac_M00244
+EGR3_1	Egr-3_transfac_M00245
+EGR1_known2	EGR2_1	Egr-2_transfac_M00246
+POU2F2_known9	POU2F1_8	Oct-1_transfac_M00248
+DDIT3::CEBPA_1	CHOP:C/EBPalpha_transfac_M00249
+GFI1_1	Gfi-1_transfac_M00250
+XBP1_1	XBP-1_transfac_M00251
+TATA_known2	TBP_2	TATA_transfac_M00252
+REST_known1	REST_1	NRSF_transfac_M00256
+RREB1_1	RREB-1_transfac_M00257
+IRF_known3	IRF9_1	ISGF-3_transfac_M00258
+HLF_1	HLF_transfac_M00260
+EBF1_known1	EBF1_1	Olf-1_transfac_M00261
+RUNX2_1	AML1a_transfac_M00271
+TP53_2	p53_transfac_M00272
+LMO2_1	Lmo2-complex_transfac_M00277
+LMO2_2	Lmo2-complex_transfac_M00278
+HERPUD1_1	MIF-1_transfac_M00279
+RFX5_known1	RFX1_1	RFX1_transfac_M00280
+RFX5_known2	RFX1_2	RFX1_transfac_M00281
+NFE2L1::MAFG_1	TCF11:MafG_transfac_M00284
+NFE2L1_1	TCF11_transfac_M00285
+NFY_known3	NFY_3	NF-Y_transfac_M00287
+FOXI1_1	HFH3-(FOXI1)_transfac_M00289
+FOXF2_1	Freac-2_transfac_M00290
+FOXC1_1	Freac-3_transfac_M00291
+FOXD1_1	Freac-4_transfac_M00292
+FOXL1_1	Freac-7_transfac_M00293
+FOXF1_1	HFH8-(FOXF1A)_transfac_M00294
+NFAT_1	NF-AT_transfac_M00302
+MYC_known8	MYC::MAX_3	c-Myc:Max_transfac_M00322
+REST_known2	REST_2	NRSE_transfac_M00325
+PAX1_1	Pax-1_transfac_M00326
+PAX3_1	Pax-3_transfac_M00327
+PAX8_1	Pax-8_transfac_M00328
+FOXN1_1	Whn_transfac_M00332
+ZBTB14_1	ZF5_transfac_M00333
+ATF3_known8	ATF1_2	ATF_transfac_M00338
+ETS_known4	ETS1_2	c-Ets-1_transfac_M00339
+ETS_known5	ETS2_1	c-Ets-2_transfac_M00340
+ETS_known6	GABP_1	GABP_transfac_M00341
+POU2F2_known10	POU2F1_9	Oct-1_transfac_M00342
+GATA_known8	GATA1_5	GATA-1_transfac_M00346
+PAX3_2	Pax-3_transfac_M00360
+PAX4_1	Pax-4_transfac_M00373
+PAX4_2	Pax-4_transfac_M00377
+PAX4_3	Pax-4_transfac_M00378
+PAX4_4	Pax-4_transfac_M00380
+MSX1_1	Msx-1_transfac_M00394
+HOXA3_1	HOXA3_transfac_M00395
+EN1_1	En-1_transfac_M00396
+MEF2_known6	MEF2A_2	aMEF-2_transfac_M00403
+MEF2_known7	MYEF2_5	MEF-2_transfac_M00405
+MEF2_known8	MYEF2_6	MEF-2_transfac_M00406
+MEF2_known9	MEF2A_3	RSRFC4_transfac_M00407
+SOX9_1	SOX9_transfac_M00410
+HNF4_known3	HNF4A_2	HNF4alpha1_transfac_M00411
+ZEB1_known1	ZEB1_1	AREB6_transfac_M00412
+ZEB1_known2	ZEB1_2	AREB6_transfac_M00413
+ZEB1_known3	ZEB1_3	AREB6_transfac_M00414
+ZEB1_known4	ZEB1_4	AREB6_transfac_M00415
+ALX1_1	Cart-1_transfac_M00416
+TGIF1_1	TGIF_transfac_M00418
+MEIS1_1	MEIS1_transfac_M00419
+MEIS1::HOXA9_1	MEIS1A:HOXA9_transfac_M00420
+MEIS1::HOXA9_2	MEIS1B:HOXA9_transfac_M00421
+FOXJ2_1	FOXJ2_transfac_M00422
+FOXJ2_2	FOXJ2_transfac_M00423
+NKX6-1_1	Nkx6-1_transfac_M00424
+E2F_known3	E2F1_3	E2F_transfac_M00425
+E2F_known4	E2F1_4	E2F_transfac_M00426
+E2F_known5	E2F1_5	E2F_transfac_M00427
+E2F_known6	E2F1_6	E2F-1_transfac_M00428
+E2F_known7	E2F1_7	E2F-1_transfac_M00430
+E2F_known8	E2F1_8	E2F-1_transfac_M00431
+NKX2-1_1	TTF1-(Nkx2-1)_transfac_M00432
+HMX3_1	Hmx3-(Nkx5-1)_transfac_M00433
+PDX1_1	IPF1_transfac_M00436
+VSX2_1	CHX10_transfac_M00437
+VDR_1	VDR_transfac_M00444
+SPZ1_1	Spz1_transfac_M00446
+NR3C1_known3	AR_1	AR_transfac_M00447
+ZIC1_1	Zic1_transfac_M00448
+ZIC2_1	Zic2_transfac_M00449
+ZIC3_1	Zic3_transfac_M00450
+NKX3-1_1	Nkx3-1_transfac_M00451
+IRF_known4	IRF7_1	IRF-7_transfac_M00453
+ARID5B_1	MRF-2_transfac_M00454
+BPTF_1	FAC1_transfac_M00456
+STAT_known4	STAT5A_1	STAT5A-(homodimer)_transfac_M00457
+STAT_known5	STAT5B_1	STAT5B-(homodimer)_transfac_M00459
+STAT_known6	STAT5A_2	STAT5A-(homotetramer)_transfac_M00460
+GATA_known9	GATA6_1	GATA-6_transfac_M00462
+POU3F2_2	POU3F2_transfac_M00463
+POU3F2_3	POU3F2_transfac_M00464
+POU6F1_1	POU6F1_transfac_M00465
+HIF1A_1	HIF1_transfac_M00466
+ZNF423_1	Roaz_transfac_M00467
+KLF12_1	AP-2rep_transfac_M00468
+TFAP2_known2	TFAP2A_1	AP-2alpha_transfac_M00469
+TFAP2_known3	TFAP2C_1	AP-2gamma_transfac_M00470
+TATA_known3	TBP_3	TBP_transfac_M00471
+FOXO4_1	FOXO4_transfac_M00472
+FOXO1_1	FOXO1_transfac_M00473
+FOXO1_2	FOXO1_transfac_M00474
+FOXO4_2	FOXO4_transfac_M00476
+FOXO3_1	FOXO3_transfac_M00477
+CDC5L_1	Cdc5_transfac_M00478
+TOPORS_1	LUN-1_transfac_M00480
+NR3C1_known4	AR_2	AR_transfac_M00481
+PITX2_1	Pitx2_transfac_M00482
+ATF6_1	ATF6_transfac_M00483
+TLX2_1	Ncx_transfac_M00484
+NKX2-2_1	Nkx2-2_transfac_M00485
+PAX2_2	Pax-2_transfac_M00486
+NKX6-2_1	Nkx6-2_transfac_M00489
+BACH2_1	Bach2_transfac_M00490
+PATZ1_1	MAZR_transfac_M00491
+STAT_known7	STAT1_2	STAT1_transfac_M00492
+STAT_known8	STAT5A_3	STAT5A_transfac_M00493
+STAT_known9	STAT6_1	STAT6_transfac_M00494
+BACH1_1	Bach1_transfac_M00495
+STAT_known10	STAT1_3	STAT1_transfac_M00496
+STAT_known11	STAT3_2	STAT3_transfac_M00497
+STAT_known12	STAT4_1	STAT4_transfac_M00498
+STAT_known13	STAT5A_4	STAT5A_transfac_M00499
+STAT_known14	STAT6_2	STAT6_transfac_M00500
+LHX3_1	Lhx3_transfac_M00510
+ESRRA_known2	ESRRA_1	ERR-alpha_transfac_M00511
+RXRA_known1	PPARG_1	PPARgamma:RXRalpha_transfac_M00512
+ATF3_known9	ATF3_1	ATF3_transfac_M00513
+ATF4_1	ATF4_transfac_M00514
+RXRA_known2	PPARG_2	PPARgamma:RXRalpha,-PPARgamma_transfac_M00515
+E2F_known9	E2F1_9	E2F_transfac_M00516
+AP1_known6	AP1_7	AP-1_transfac_M00517
+PPARA_2	PPARalpha:RXRalpha_transfac_M00518
+NR6A1_1	GCNF_transfac_M00526
+PPARA_3	PPAR_transfac_M00528
+ELF2_1	NERF1a_transfac_M00531
+ZBTB18_1	RP58_transfac_M00532
+XBP1_2	HTF_transfac_M00538
+ARNT_2	Arnt_transfac_M00539
+MYC_known9	MYC::MAX_4	c-Myc:Max_transfac_M00615
+AFP_1	AFP1_transfac_M00616
+ALX4_1	Alx-4_transfac_M00619
+CEBPD_1	C/EBPdelta_transfac_M00621
+CEBPG_1	C/EBPgamma_transfac_M00622
+CRX_1	Crx_transfac_M00623
+DBP_1	DBP_transfac_M00624
+RFX5_known3	RFX1_3	RFX1-(EF-C)_transfac_M00626
+FOXM1_1	FOXM1_transfac_M00630
+NR1H4_1	FXR/RXR-alpha_transfac_M00631
+GATA_known10	GATA4_1	GATA-4_transfac_M00632
+GCM_1	GCM_transfac_M00634
+HNF4_known4	HNF4A_3	HNF4alpha_transfac_M00638
+ONECUT1_1	HNF6_transfac_M00639
+HOXA4_1	HOXA4_transfac_M00640
+HSF_known2	HSF1_2	HSF_transfac_M00641
+TFCP2_2	LBP-1_transfac_M00644
+ITGB2_1	LF-A1_transfac_M00646
+NR1H_1	LXR_transfac_M00647
+MAF_known1	MAF_1	MAF_transfac_M00648
+MAZ_1	MAZ_transfac_M00649
+MTF1_1	MTF-1_transfac_M00650
+YY1_known3	YY1_3	NF-muE1_transfac_M00651
+NRF1_known1	NRF1_1	Nrf-1_transfac_M00652
+ETV4_1	PEA3_transfac_M00655
+PTF1A_1	PTF1-beta_transfac_M00657
+SPI1_known1	SPI1_1	PU.1_transfac_M00658
+SP1_known3	SP3_1	Sp3_transfac_M00665
+TCF7L2_known1	TCF7L2_1	TCF-4_transfac_M00671
+TEF_1	TEF_transfac_M00672
+ETV7_1	Tel-2_transfac_M00678
+NFY_known4	NFY_4	alpha-CP1_transfac_M00687
+AP3_1	AP-3_transfac_M00690
+ATF3_known10	ATF1_3	ATF1_transfac_M00691
+TCF3_3	E12_transfac_M00693
+E4F1_1	E4F1_transfac_M00694
+TEAD2_1	ETF_transfac_M00695
+TCF12_known1	TCF12_1	HEB_transfac_M00698
+IRF_known5	IRF8_1	ICSBP_transfac_M00699
+SMAD3_1	SMAD3_transfac_M00701
+TEAD1_1	TEF-1_transfac_M00704
+GTF2I_1	TFII-I_transfac_M00706
+GTF2A_1	TFIIA_transfac_M00707
+MYOG_1	myogenin_transfac_M00712
+ZBTB14_2	ZF5_transfac_M00716
+PAX8_2	Pax-8_transfac_M00717
+CACBP_1	CAC-binding-protein_transfac_M00720
+CACD_1	CACCC-binding-factor_transfac_M00721
+RUNX2_2	core-binding-factor_transfac_M00722
+FOXA_known2	FOXA1_1	HNF3alpha_transfac_M00724
+CBX5_1	HP1-site-factor_transfac_M00725
+MYC_known10	USF2_1	USF2_transfac_M00726
+NR5A1_1	SF1_transfac_M00727
+CDX2_1	Cdx-2_transfac_M00729
+RUNX2_3	Osf2_transfac_M00731
+SMAD4_1	SMAD4_transfac_M00733
+ZNF384_1	CIZ_transfac_M00734
+E2F_known10	E2F1_10	E2F-1:DP-1_transfac_M00736
+E2F_known11	E2F1_11	E2F-1:DP-2_transfac_M00737
+E2F_known12	E2F4_1	E2F-4:DP-1_transfac_M00738
+E2F_known13	E2F4_2	E2F-4:DP-2_transfac_M00739
+E2F_known14	E2F1_12	Rb:E2F-1:DP-1_transfac_M00740
+FOXJ1_1	HFH4-(FOXJ1)_transfac_M00742
+POU1F1_1	POU1F1_transfac_M00744
+ELF1_known1	ELF1_1	Elf-1_transfac_M00746
+IRF_known6	IRF1_2	IRF-1_transfac_M00747
+SREBP_known3	SREBF1_3	SREBP-1_transfac_M00749
+HMGA1_1	HMG-IY_transfac_M00750
+RUNX1_7	AML1_transfac_M00751
+TP53_3	p53-decamer_transfac_M00761
+HNF4_known5	HNF4_2	PPAR,-HNF-4,-COUP,-RAR_transfac_M00762
+PPARA_4	PPAR-direct-repeat-1_transfac_M00763
+HNF4_known6	HNF4_3	HNF4-direct-repeat-1_transfac_M00764
+HNF4_known7	HNF4_4	COUP-direct-repeat-1_transfac_M00765
+NR1H_2	LXR-direct-repeat-4_transfac_M00766
+NR1H4_2	FXR-inverted-repeat-1_transfac_M00767
+RUNX_1	AML_transfac_M00769
+CEBPB_known6	CEBP_4	C/EBP_transfac_M00770
+ETS_1	Ets_transfac_M00771
+IRF_known7	IRF_1	IRF_transfac_M00772
+MYB_3	MYB_transfac_M00773
+NFKB_known6	NFKB_4	NF-kappaB_transfac_M00774
+NFY_known5	NFY_5	NF-Y_transfac_M00775
+SREBP_known4	SREBF_1	SREBP_transfac_M00776
+STAT_known15	STAT_2	STAT_transfac_M00777
+AHR_2	AhR_transfac_M00778
+GATA_known11	GATA_2	GATA_transfac_M00789
+HNF1_3	HNF1_transfac_M00790
+FOXA_known3	FOXA_1	HNF3_transfac_M00791
+SMAD_1	SMAD_transfac_M00792
+YY1_known4	YY1_4	YY1_transfac_M00793
+NKX2-1_2	TTF-1-(Nkx2-1)_transfac_M00794
+POU2F2_known11	POU_2	Octamer_transfac_M00795
+MYC_known11	USF_5	USF_transfac_M00796
+HIF1A_2	HIF1_transfac_M00797
+MYC_known12	MYC_1	Myc_transfac_M00799
+TFAP2_known4	TFAP2_2	AP-2_transfac_M00800
+ATF3_known11	CREB1_7	CREB_transfac_M00801
+POU1F1_2	Pit-1_transfac_M00802
+E2F_known15	E2F1_13	E2F_transfac_M00803
+TCF3_4	E2A_transfac_M00804
+TCF7L2_known2	LEF1_1	LEF1_transfac_M00805
+NFIC_3	NF-1_transfac_M00806
+EGR1_known3	EGR_1	Egr_transfac_M00807
+PAX5_known3	PAX_1	Pax_transfac_M00808
+FOX_1	FOX-factors_transfac_M00809
+SRF_known4	SRF_4	SRF_transfac_M00810
+NFE2L2_2	Nrf-2_transfac_M00821
+CEBPB_known7	CEBP_5	C/EBP_transfac_M00912
+MYB_4	MYB_transfac_M00913
+TFAP2_known5	TFAP2_3	AP-2_transfac_M00915
+ATF3_known12	CREB1_8	CREB_transfac_M00916
+ATF3_known13	CREB1_9	CREB_transfac_M00917
+E2F_known16	E2F1_14	E2F_transfac_M00918
+E2F_known17	E2F1_15	E2F_transfac_M00919
+E2F_known18	E2F1_16	E2F_transfac_M00920
+NR3C1_known5	NR3C1_3	GR_transfac_M00921
+SRF_known5	SRF_5	SRF_transfac_M00922
+AP1_known7	AP1_8	AP-1_transfac_M00924
+AP1_known8	AP1_9	AP-1_transfac_M00925
+AP1_known9	AP1_10	AP-1_transfac_M00926
+TFAP4_4	AP-4_transfac_M00927
+MYOD1_3	MyoD_transfac_M00929
+POU2F2_known12	POU2F1_10	Oct-1_transfac_M00930
+SP1_known4	SP1_3	Sp1_transfac_M00931
+SP1_known5	SP1_4	Sp1_transfac_M00932
+SP1_known6	SP1_5	Sp1_transfac_M00933
+NFAT_2	NF-AT_transfac_M00935
+E2F_known19	E2F1_17	E2F-1_transfac_M00938
+E2F_known20	E2F1_18	E2F-1_transfac_M00939
+E2F_known21	E2F1_19	E2F-1_transfac_M00940
+MEF2_known10	MYEF2_7	MEF-2_transfac_M00941
+TFCP2_3	CP2/LBP-1c/LSF_transfac_M00947
+NR3C1_known6	AR_3	AR_transfac_M00953
+NR3C1_known7	PGR_1	PR_transfac_M00954
+NR3C1_known8	NR3C1_4	GR_transfac_M00955
+NR3C1_known9	AR_4	AR_transfac_M00956
+NR3C1_known10	PGR_2	PR_transfac_M00957
+ESRRA_known3	ESR1_2	ER_transfac_M00959
+NR3C1_known11	NR3C1_5	PR,-GR_transfac_M00960
+VDR_2	VDR_transfac_M00961
+NR3C1_known12	AR_5	AR_transfac_M00962
+RAR_1	T3R_transfac_M00963
+NR1H4_3	PXR,-CAR,-LXR,-FXR_transfac_M00964
+NR1H_3	LXR,-PXR,-CAR,-COUP,-RAR_transfac_M00965
+VDR_3	VDR,-CAR,-PXR_transfac_M00966
+HNF4_known8	HNF4_5	HNF4,-COUP_transfac_M00967
+ETS_2	Ets_transfac_M00971
+IRF_known8	IRF_2	IRF_transfac_M00972
+TCF3_5	E2A_transfac_M00973
+SMAD_2	SMAD_transfac_M00974
+RFX5_known4	RFX1_4	RFX_transfac_M00975
+AHR::ARNT::HIF1A_1	AhR,-Arnt,-HIF-1_transfac_M00976
+EBF1_known2	EBF1_2	EBF_transfac_M00977
+TCF7L2_known3	LEF1_2	LEF1,-TCF1_transfac_M00978
+PAX6_2	Pax-6_transfac_M00979
+TATA_known4	TBP_4	TBP_transfac_M00980
+ATF3_known14	CREB_1	CREB,-ATF_transfac_M00981
+EGR1_known4	EGR_2	KROX_transfac_M00982
+MAF_known2	MAF_2	MAF_transfac_M00983
+RUNX_2	PEBP_transfac_M00984
+BHLHE40_known1	BHLHE40_1	Stra13_transfac_M00985
+FOXP1_1	FOXP1_transfac_M00987
+CDX_1	Cdx_transfac_M00991
+FOXP3_1	FOXP3_transfac_M00992
+TAL1_known4	TAL1_4	TAL1_transfac_M00993
+PTEN_1	DEC_transfac_M00997
+PBX3_known1	PBX_1	Pbx_transfac_M00998
+AIRE_1	AIRE_transfac_M00999
+AIRE_2	AIRE_transfac_M01000
+IKZF2_2	Helios-A_transfac_M01003
+IKZF2_3	Helios-A_transfac_M01004
+SRF_known6	SRF_6	SRF_transfac_M01007
+HES1_1	HES1_transfac_M01009
+HMGA1_2	HMGIY_transfac_M01010
+HNF1_4	HNF1_transfac_M01011
+FOXA_known4	FOXA_2	HNF3_transfac_M01012
+PDX1_2	IPF1_transfac_M01013
+SOX_1	SOX_transfac_M01014
+SOX17_1	SOX17_transfac_M01016
+PBX1_3	Pbx-1_transfac_M01017
+TBX5_1	TBX5_transfac_M01019
+TBX5_2	TBX5_transfac_M01020
+TCF7L2_known4	LEF1_3	LEF1_transfac_M01022
+HSF_known3	HSF1_3	HSF1_transfac_M01023
+REST_known3	REST_3	NRSF_transfac_M01028
+TFE_1	TFE_transfac_M01029
+HNF4_known9	HNF4A_4	HNF4_transfac_M01031
+HNF4_known10	HNF4A_5	HNF4_transfac_M01032
+HNF4_known11	HNF4A_6	HNF4_transfac_M01033
+MXI1_known1	EBOX_1	Ebox_transfac_M01034
+YY1_known5	YY1_5	YY1_transfac_M01035
+HNF4_known12	HNF4_6	COUPTF_transfac_M01036
+GLI_1	GLI_transfac_M01037
+NKX2-5_3	Nkx2-5_transfac_M01043
+TBX5_3	TBX5_transfac_M01044
+TFAP2_known6	TFAP2A_2	AP-2alphaA_transfac_M01045
+TFAP2_known7	TFAP2A_3	AP-2alphaA_transfac_M01047
+GFI1B_1	Gfi1b_transfac_M01058
+PRDM1_known1	PRDM1_1	BLIMP1_transfac_M01066
+GFI1_2	Gfi1_transfac_M01067
+HF1H3B_1	UF1H3BETA_transfac_M01068
+GZF1_1	GZF1_transfac_M01069
+HIC1_1	HIC1_transfac_M01072
+HIC1_2	HIC1_transfac_M01073
+ZBTB16_1	PLZF_transfac_M01075
+ZNF628_1	Zec_transfac_M01081
+BRCA1_known1	BRCA1_1	BRCA1:USF2_transfac_M01082
+ZBTB7A_known1	ZBTB7A_1	LRF_transfac_M01100
+OVOL2_1	MOVO-B_transfac_M01104
+ZNF350_1	ZBRK1_transfac_M01105
+HOXA7_1	HOXA7_transfac_M01108
+ZNF589_1	SZF1-1_transfac_M01109
+RBPJ_1	RBP-Jkappa_transfac_M01111
+RBPJ_2	RBP-Jkappa_transfac_M01112
+CACD_2	CACD_transfac_M01113
+CLOCK::ARNTL_1	CLOCK:BMAL_transfac_M01116
+OTX_1	OTX_transfac_M01117
+WT1_1	WT1_transfac_M01118
+ZBTB33_known1	ZBTB33_1	KAISO_transfac_M01119
+ZNF219_1	ZNF219_transfac_M01122
+NANOG_known1	NANOG_1	Nanog_transfac_M01123
+POU5F1_known1	POU5F1_1	Oct-4-(POU5F1)_transfac_M01124
+POU5F1_known2	POU5F1_2	Oct-4-(POU5F1)_transfac_M01125
+SOX10_1	SOX10_transfac_M01131
+NR5A1_2	SF1_transfac_M01132
+FOXO3_2	FOXO3A_transfac_M01137
+RORA_3	RORalpha_transfac_M01138
+NR5A2_1	LRH1_transfac_M01142
+MYC_known13	MYC_2	c-Myc_transfac_M01145
+DMRT1_1	DMRT1_transfac_M01146
+DMRT2_1	DMRT2_transfac_M01147
+DMRT3_1	DMRT3_transfac_M01148
+DMRTA1_1	DMRT4_transfac_M01149
+DMRTA2_1	DMRT5_transfac_M01150
+DMRTC2_1	DMRT7_transfac_M01151
+RXRA_known3	RXRA_1	RXR-(PXR:RXR)_transfac_M01152
+RXRA_known4	RXRA_2	PXR-(PXR:RXR)_transfac_M01153
+MYC_known14	MYC_3	c-Myc_transfac_M01154
+TFAP2_known8	TFAP2A_4	TFAP2A_jaspar_MA0003.1
+ARNT_3	Arnt_jaspar_MA0004.1
+AHR::ARNT_3	Arnt::Ahr_jaspar_MA0006.1
+NR3C1_known13	AR_6	Ar_jaspar_MA0007.1
+T_2	T_jaspar_MA0009.1
+PAX5_known4	PAX5_3	Pax5_jaspar_MA0014.1
+HNF4_known13	NR2F1_1	NR2F1_jaspar_MA0017.1
+DDIT3::CEBPA_2	Ddit3::Cebpa_jaspar_MA0019.1
+E2F_known22	E2F1_20	E2F1_jaspar_MA0024.1
+NFIL3_2	NFIL3_jaspar_MA0025.1
+EN1_2	En1_jaspar_MA0027.1
+ETS_known7	ELK1_3	ELK1_jaspar_MA0028.1
+RUNX1_8	Evi1_jaspar_MA0029.1
+FOXF2_2	FOXF2_jaspar_MA0030.1
+FOXD1_2	FOXD1_jaspar_MA0031.1
+FOXC1_2	FOXC1_jaspar_MA0032.1
+FOXL1_2	FOXL1_jaspar_MA0033.1
+GATA_known12	GATA2_2	GATA2_jaspar_MA0036.1
+GATA_known13	GATA3_2	GATA3_jaspar_MA0037.1
+GFI1_3	Gfi_jaspar_MA0038.1
+FOXQ1_2	Foxq1_jaspar_MA0040.1
+FOXD3_2	Foxd3_jaspar_MA0041.1
+FOXI1_2	FOXI1_jaspar_MA0042.1
+HLF_2	HLF_jaspar_MA0043.1
+HNF1A_1	HNF1A_jaspar_MA0046.1
+NHLH1_3	NHLH1_jaspar_MA0048.1
+IRF_known9	IRF1_3	IRF1_jaspar_MA0050.1
+IRF_known10	IRF2_2	IRF2_jaspar_MA0051.1
+MEF2_known11	MEF2A_4	MEF2A_jaspar_MA0052.1
+MYF_1	Myf_jaspar_MA0055.1
+MZF1_3	MZF1:1-4_jaspar_MA0056.1
+MZF1_4	MZF1:5-13_jaspar_MA0057.1
+MYC_known15	MAX_2	MAX_jaspar_MA0058.1
+MYC_known16	MYC::MAX_5	MYC::MAX_jaspar_MA0059.1
+NFY_known6	NFYA_1	NFYA_jaspar_MA0060.1
+NFKB_known7	NFKB_5	NF-kappaB_jaspar_MA0061.1
+NKX2-5_4	Nkx2-5_jaspar_MA0063.1
+RXRA_known5	PPARG_3	PPARG_jaspar_MA0066.1
+PAX2_3	Pax2_jaspar_MA0067.1
+PAX4_5	Pax4_jaspar_MA0068.1
+PAX6_3	Pax6_jaspar_MA0069.1
+PBX1_4	PBX1_jaspar_MA0070.1
+RORA_4	RORA:1_jaspar_MA0071.1
+RORA_5	RORA:2_jaspar_MA0072.1
+RREB1_2	RREB1_jaspar_MA0073.1
+VDR_4	RXRA::VDR_jaspar_MA0074.1
+PRRX2_2	Prrx2_jaspar_MA0075.1
+ELK4_1	ELK4_jaspar_MA0076.1
+SOX9_2	SOX9_jaspar_MA0077.1
+SOX17_2	Sox17_jaspar_MA0078.1
+SPIB_1	SPIB_jaspar_MA0081.1
+SRF_known7	SRF_7	SRF_jaspar_MA0083.1
+SRY_3	SRY_jaspar_MA0084.1
+SOX5_2	Sox5_jaspar_MA0087.1
+ZNF143_known1	ZNF143_1	znf143_jaspar_MA0088.1
+NFE2L1::MAFG_2	NFE2L1::MafG_jaspar_MA0089.1
+TEAD1_2	TEAD1_jaspar_MA0090.1
+TAL1_known5	TAL1_5	TAL1::TCF3_jaspar_MA0091.1
+HAND1_2	Hand1::Tcfe2a_jaspar_MA0092.1
+MYC_known17	USF1_1	USF1_jaspar_MA0093.1
+YY1_known6	YY1_6	YY1_jaspar_MA0095.1
+ETS_known8	ETS1_3	ETS1_jaspar_MA0098.1
+MYB_5	Myb_jaspar_MA0100.1
+REL_2	REL_jaspar_MA0101.1
+ZEB1_known5	ZEB1_5	ZEB1_jaspar_MA0103.1
+NFKB_known8	NFKB1_2	NFKB1_jaspar_MA0105.1
+TP53_4	TP53_jaspar_MA0106.1
+NFKB_known9	RELA_2	RELA_jaspar_MA0107.1
+TATA_known5	TBP_5	TBP_jaspar_MA0108.2
+HLTF_1	Hltf_jaspar_MA0109.1
+SPZ1_2	Spz1_jaspar_MA0111.1
+NR3C1_known14	NR3C1_6	NR3C1_jaspar_MA0113.1
+HNF4_known14	HNF4A_7	HNF4A_jaspar_MA0114.1
+RXRA_known6	RXRA_3	NR1H2::RXRA_jaspar_MA0115.1
+ZNF423_2	Zfp423_jaspar_MA0116.1
+MAF_known3	MAFB_1	Mafb_jaspar_MA0117.1
+NR2E1::NFIC_1	TLX1::NFIC_jaspar_MA0119.1
+NKX3-2_1	Nkx3-2_jaspar_MA0122.1
+NKX3-1_2	NKX3-1_jaspar_MA0124.1
+NOBOX_1	Nobox_jaspar_MA0125.1
+ZNF354C_1	ZNF354C_jaspar_MA0130.1
+HINFP_1	MIZF_jaspar_MA0131.1
+PDX1_3	Pdx1_jaspar_MA0132.1
+BRCA1_known2	BRCA1_2	BRCA1_jaspar_MA0133.1
+LHX3_2	Lhx3_jaspar_MA0135.1
+ELF5_1	ELF5_jaspar_MA0136.1
+CTCF_known1	CTCF_1	CTCF_jaspar_MA0139.1
+GATA_known14	GATA_3	Tal1::Gata1_jaspar_MA0140.1
+ESRRB_1	Esrrb_jaspar_MA0141.1
+POU5F1_known3	POU5F1_3	Pou5f1_jaspar_MA0142.1
+SOX2_1	Sox2_jaspar_MA0143.1
+STAT_known16	STAT3_3	Stat3_jaspar_MA0144.1
+TFCP2L1_1	Tcfcp2l1_jaspar_MA0145.1
+ZFX_1	Zfx_jaspar_MA0146.1
+MYC_known18	MYC_4	Myc_jaspar_MA0147.1
+FOXA_known5	FOXA1_2	FOXA1_jaspar_MA0148.1
+EWSR1::FLI1_1	EWSR1-FLI1_jaspar_MA0149.1
+ETS_known9	GABPA_1	GABPA_jaspar_MA0062.2
+GATA_known15	GATA1_6	Gata1_jaspar_MA0035.2
+KLF4_1	Klf4_jaspar_MA0039.2
+REST_known4	REST_4	REST_jaspar_MA0138.2
+RUNX1_9	RUNX1_jaspar_MA0002.2
+STAT_known17	STAT1_4	STAT1_jaspar_MA0137.2
+MYCN_2	Mycn_jaspar_MA0104.2
+FOXA_known6	FOXA2_2	Foxa2_jaspar_MA0047.2
+ESRRA_known4	ESR1_3	ESR1_jaspar_MA0112.2
+RXRA_known7	PPARG_4	PPARG::RXRA_jaspar_MA0065.2
+NFE2L2_3	NFE2L2_jaspar_MA0150.1
+ARID3A_1	ARID3A_jaspar_MA0151.1
+NFATC2_1	NFATC2_jaspar_MA0152.1
+HNF1B_1	HNF1B_jaspar_MA0153.1
+EBF1_known3	EBF1_3	EBF1_jaspar_MA0154.1
+INSM1_1	INSM1_jaspar_MA0155.1
+FEV_1	FEV_jaspar_MA0156.1
+FOXO3_3	FOXO3_jaspar_MA0157.1
+HOXA5_2	HOXA5_jaspar_MA0158.1
+RXRA_known8	RXRA_4	RXR::RAR:DR5_jaspar_MA0159.1
+NR4A_known1	NR4A2_1	NR4A2_jaspar_MA0160.1
+NFIC_4	NFIC_jaspar_MA0161.1
+EGR1_known5	EGR1_2	Egr1_jaspar_MA0162.1
+PLAG1_1	PLAG1_jaspar_MA0163.1
+NR2E3_1	Nr2e3_jaspar_MA0164.1
+SPI1_known2	SPI1_2	SPI1_jaspar_MA0080.2
+ATF3_known15	CREB1_10	CREB1_jaspar_MA0018.2
+AP1_known10	AP1_1	AP1_jaspar_MA0099.2
+SP1_known7	SP1_6	SP1_jaspar_MA0079.2
+CEBPA_2	CEBPA_jaspar_MA0102.2
+ESR2_1	ESR2_jaspar_MA0258.1
+HIF1A::ARNT_1	HIF1A::ARNT_jaspar_MA0259.1
+SOX10_2	SOX10_jaspar_MA0442.1
+POU2F2_known13	POU2F1_11	Oct-1_bulyk_nbt06-Oct-1
+EGR1_known6	EGR1_3	Zif268_bulyk_nbt06-Zif268
+ARID3A_2	Arid3a_bulyk_sc09-primary
+ARID5A_1	Arid5a_bulyk_sc09-primary
+ASCL2_1	Ascl2_bulyk_sc09-primary
+ATF3_known16	ATF1_4	Atf1_bulyk_sc09-primary
+BBX_1	Bbx_bulyk_sc09-primary
+BCL6B_1	Bcl6b_bulyk_sc09-primary
+BHLHE40_known2	BHLHE40_2	Bhlhb2_bulyk_sc09-primary
+E2F2_1	E2F2_bulyk_sc09-primary
+E2F_known23	E2F3_1	E2F3_bulyk_sc09-primary
+EGR1_known7	EGR1_4	Egr1_bulyk_sc09-primary
+EHF_1	Ehf_bulyk_sc09-primary
+ELF3_1	Elf3_bulyk_sc09-primary
+EOMES_1	Eomes_bulyk_sc09-primary
+ESRRA_known5	ESRRA_2	Esrra_bulyk_sc09-primary
+FOXA_known7	FOXA2_3	Foxa2_bulyk_sc09-primary
+FOXJ1_2	Foxj1_bulyk_sc09-primary
+FOXJ3_1	Foxj3_bulyk_sc09-primary
+FOXK1_1	Foxk1_bulyk_sc09-primary
+FOXL1_3	Foxl1_bulyk_sc09-primary
+ETS_known10	GABPA_2	Gabpa_bulyk_sc09-primary
+GATA_known16	GATA3_3	Gata3_bulyk_sc09-primary
+GATA_known17	GATA5_1	Gata5_bulyk_sc09-primary
+GATA_known18	GATA6_2	Gata6_bulyk_sc09-primary
+GCM1_1	Gcm1_bulyk_sc09-primary
+GLIS2_1	Glis2_bulyk_sc09-primary
+ZSCAN4_1	Gm397_bulyk_sc09-primary
+GMEB1_1	Gmeb1_bulyk_sc09-primary
+HBP1_1	Hbp1_bulyk_sc09-primary
+HIC1_3	Hic1_bulyk_sc09-primary
+HNF4_known15	HNF4A_8	Hnf4a_bulyk_sc09-primary
+HOXA3_2	Hoxa3_bulyk_sc09-primary
+ARHGEF12_1	IRC900814_bulyk_sc09-primary
+IRF_known11	IRF3_1	Irf3_bulyk_sc09-primary
+IRF4_1	Irf4_bulyk_sc09-primary
+IRF_known12	IRF5_1	Irf5_bulyk_sc09-primary
+IRF6_1	Irf6_bulyk_sc09-primary
+IRF_known13	IRF9_2	Isgf3g_bulyk_sc09-primary
+JDP2_1	Jundm2_bulyk_sc09-primary
+KLF7_1	Klf7_bulyk_sc09-primary
+TCF7L2_known5	LEF1_4	Lef1_bulyk_sc09-primary
+MAF_known4	MAFB_2	Mafb_bulyk_sc09-primary
+MAF_known5	MAFK_1	Mafk_bulyk_sc09-primary
+MYC_known19	MAX_3	Max_bulyk_sc09-primary
+MTF1_2	Mtf1_bulyk_sc09-primary
+MYB_6	Myb_bulyk_sc09-primary
+MYBL1_1	Mybl1_bulyk_sc09-primary
+MYF6_1	Myf6_bulyk_sc09-primary
+NKX3-1_3	Nkx3-1_bulyk_sc09-primary
+NR2F2_2	Nr2f2_bulyk_sc09-primary
+OSR1_1	Osr1_bulyk_sc09-primary
+OSR2_1	Osr2_bulyk_sc09-primary
+PLAGL1_1	Plagl1_bulyk_sc09-primary
+RARA_1	Rara_bulyk_sc09-primary
+RFX3_1	Rfx3_bulyk_sc09-primary
+RFX5_known5	RFX4_1	Rfx4_bulyk_sc09-primary
+RFX7_1	Rfxdc2_bulyk_sc09-primary
+RXRA_known9	RXRA_5	Rxra_bulyk_sc09-primary
+SPI1_known3	SPI1_3	Sfpi1_bulyk_sc09-primary
+SIX5_known1	SIX6_1	Six6_bulyk_sc09-primary
+SMAD3_2	Smad3_bulyk_sc09-primary
+SOX11_1	Sox11_bulyk_sc09-primary
+SOX12_1	Sox12_bulyk_sc09-primary
+SOX13_1	Sox13_bulyk_sc09-primary
+SOX14_1	Sox14_bulyk_sc09-primary
+SOX15_1	Sox15_bulyk_sc09-primary
+SOX17_3	Sox17_bulyk_sc09-primary
+SOX18_1	Sox18_bulyk_sc09-primary
+SOX1_1	Sox1_bulyk_sc09-primary
+SOX21_1	Sox21_bulyk_sc09-primary
+SOX30_1	Sox30_bulyk_sc09-primary
+SOX4_1	Sox4_bulyk_sc09-primary
+SOX5_3	Sox5_bulyk_sc09-primary
+SOX7_1	Sox7_bulyk_sc09-primary
+SOX8_1	Sox8_bulyk_sc09-primary
+SP100_1	Sp100_bulyk_sc09-primary
+SP4_1	Sp4_bulyk_sc09-primary
+SPDEF_1	Spdef_bulyk_sc09-primary
+SRF_known8	SRF_8	Srf_bulyk_sc09-primary
+SRY_4	Sry_bulyk_sc09-primary
+TATA_known6	TBP_6	Tbp_bulyk_sc09-primary
+HNF1A_2	Tcf1_bulyk_sc09-primary
+TCF7L1_1	Tcf3_bulyk_sc09-primary
+TCF7_1	Tcf7_bulyk_sc09-primary
+TCF7L2_known6	TCF7L2_2	Tcf7l2_bulyk_sc09-primary
+TFAP2_known9	TFAP2A_5	Tcfap2a_bulyk_sc09-primary
+TFAP2B_1	Tcfap2b_bulyk_sc09-primary
+TFAP2_known10	TFAP2C_2	Tcfap2c_bulyk_sc09-primary
+TFAP2E_1	Tcfap2e_bulyk_sc09-primary
+TCF3_6	Tcfe2a_bulyk_sc09-primary
+ZBTB12_1	Zbtb12_bulyk_sc09-primary
+ZBTB3_1	Zbtb3_bulyk_sc09-primary
+ZBTB7A_known2	ZBTB7B_1	Zbtb7b_bulyk_sc09-primary
+ZNF35_1	Zfp105_bulyk_sc09-primary
+ZNF8_1	Zfp128_bulyk_sc09-primary
+ZBTB14_3	Zfp161_bulyk_sc09-primary
+ZSCAN26_1	Zfp187_bulyk_sc09-primary
+ZNF281_1	Zfp281_bulyk_sc09-primary
+ZNF410_1	Zfp410_bulyk_sc09-primary
+ZNF691_1	Zfp691_bulyk_sc09-primary
+ZNF740_1	Zfp740_bulyk_sc09-primary
+ZIC1_2	Zic1_bulyk_sc09-primary
+ZIC2_2	Zic2_bulyk_sc09-primary
+ZIC3_2	Zic3_bulyk_sc09-primary
+ZSCAN4_2	Zscan4_bulyk_sc09-primary
+ALX3_1	Alx3_bulyk_cell08-3418.2
+ALX4_2	Alx4_bulyk_cell08-1744.1
+ARX_1	Arx_bulyk_cell08-1738.2
+NKX3-2_2	Bapx1_bulyk_cell08-2343.1
+BARHL1_1	Barhl1_bulyk_cell08-2590.2
+BARHL2_1	Barhl2_bulyk_cell08-3868.1
+BARX1_1	Barx1_bulyk_cell08-2877.1
+BARX2_1	Barx2_bulyk_cell08-3447.2
+BSX_1	Bsx_bulyk_cell08-3483.2
+ALX1_2	Cart1_bulyk_cell08-0997.1
+ALX1_3	Cart1_bulyk_cell08-1275.1
+CDX1_1	Cdx1_bulyk_cell08-2245.1
+CDX2_2	Cdx2_bulyk_cell08-4272.1
+CPHX_1	Cphx_bulyk_cell08-3484.1
+CRX_2	Crx_bulyk_cell08-3485.1
+CUX1_6	Cutl1_bulyk_cell08-3494.1
+CUX1_7	Cutl1_bulyk_cell08-3494.2
+DBX1_1	Dbx1_bulyk_cell08-3486.1
+DBX2_1	Dbx2_bulyk_cell08-3487.1
+DLX1_1	Dlx1_bulyk_cell08-1741.2
+DLX2_1	Dlx2_bulyk_cell08-2273.2
+DLX3_1	Dlx3_bulyk_cell08-1030.1
+DLX4_1	Dlx4_bulyk_cell08-3488.2
+DLX5_1	Dlx5_bulyk_cell08-3419.2
+DMBX1_1	Dmbx1_bulyk_cell08-2277.1
+DOBOX4_1	Dobox4_bulyk_cell08-3956.2
+DOBOX5_1	Dobox5_bulyk_cell08-3493.1
+DUX4_1	Duxl_bulyk_cell08-1286.2
+EMX2_1	Emx2_bulyk_cell08-3420.1
+EN1_3	En1_bulyk_cell08-3123.2
+EN2_1	En2_bulyk_cell08-0952.1
+ESX1_1	Esx1_bulyk_cell08-3124.2
+EVX1_1	Evx1_bulyk_cell08-3952.2
+EVX2_1	Evx2_bulyk_cell08-2645.3
+GBX1_1	Gbx1_bulyk_cell08-2883.2
+GBX2_1	Gbx2_bulyk_cell08-3110.1
+GSC_1	Gsc_bulyk_cell08-2327.3
+GSX2_1	Gsh2_bulyk_cell08-3990.2
+HDX_1	Hdx_bulyk_cell08-3845.3
+HLX_1	Hlx1_bulyk_cell08-2350.1
+MNX1_1	Hlxb9_bulyk_cell08-3422.1
+HMBOX1_1	Hmbox1_bulyk_cell08-2674.1
+HMX1_1	Hmx1_bulyk_cell08-3423.1
+HMX2_1	Hmx2_bulyk_cell08-3424.3
+HMX3_2	Hmx3_bulyk_cell08-3490.2
+HOMEZ_1	Homez_bulyk_cell08-1063.2
+HOXA10_1	Hoxa10_bulyk_cell08-2318.1
+HOXA11_1	Hoxa11_bulyk_cell08-2218.1
+HOXA13_1	Hoxa13_bulyk_cell08-3126.1
+HOXA1_1	Hoxa1_bulyk_cell08-3425.1
+HOXA2_1	Hoxa2_bulyk_cell08-3079.1
+HOXA3_3	Hoxa3_bulyk_cell08-2783.2
+HOXA4_2	Hoxa4_bulyk_cell08-3426.1
+HOXA5_3	Hoxa5_bulyk_cell08-3415.1
+HOXA6_1	Hoxa6_bulyk_cell08-1040.1
+HOXA7_2	Hoxa7_bulyk_cell08-2668.2
+HOXA7_3	Hoxa7_bulyk_cell08-3750.1
+HOXA9_1	Hoxa9_bulyk_cell08-2622.2
+HOXB13_1	Hoxb13_bulyk_cell08-3479.1
+HOXB3_1	Hoxb3_bulyk_cell08-1720.2
+HOXB4_1	Hoxb4_bulyk_cell08-2627.1
+HOXB5_1	Hoxb5_bulyk_cell08-3122.2
+HOXB6_1	Hoxb6_bulyk_cell08-3428.2
+HOXB7_1	Hoxb7_bulyk_cell08-3953.1
+HOXB8_1	Hoxb8_bulyk_cell08-3780.2
+HOXB9_1	Hoxb9_bulyk_cell08-3413.1
+HOXC10_1	Hoxc10_bulyk_cell08-2779.2
+HOXC11_1	Hoxc11_bulyk_cell08-3718.2
+HOXC12_1	Hoxc12_bulyk_cell08-3480.1
+HOXC13_1	Hoxc13_bulyk_cell08-3127.1
+HOXC4_1	Hoxc4_bulyk_cell08-3491.1
+HOXC5_1	Hoxc5_bulyk_cell08-2630.2
+HOXC6_1	Hoxc6_bulyk_cell08-3954.2
+HOXC8_1	Hoxc8_bulyk_cell08-3429.2
+HOXC9_1	Hoxc9_bulyk_cell08-2367.2
+HOXD10_1	Hoxd10_bulyk_cell08-2368.2
+HOXD11_1	Hoxd11_bulyk_cell08-3873.1
+HOXD12_1	Hoxd12_bulyk_cell08-3481.1
+HOXD13_1	Hoxd13_bulyk_cell08-2356.1
+HOXD1_1	Hoxd1_bulyk_cell08-3448.1
+HOXD3_1	Hoxd3_bulyk_cell08-1742.2
+HOXD8_1	Hoxd8_bulyk_cell08-2644.1
+PDX1_4	Ipf1_bulyk_cell08-3815.1
+IRX2_1	Irx2_bulyk_cell08-0900.3
+IRX3_1	Irx3_bulyk_cell08-0920.1
+IRX3_2	Irx3_bulyk_cell08-2226.1
+IRX4_1	Irx4_bulyk_cell08-2242.3
+IRX5_1	Irx5_bulyk_cell08-2385.1
+IRX6_1	Irx6_bulyk_cell08-2623.2
+ISL2_1	Isl2_bulyk_cell08-3430.1
+ISX_1	Isx_bulyk_cell08-3445.1
+LBX2_1	Lbx2_bulyk_cell08-3869.2
+LHX1_1	Lhx1_bulyk_cell08-2240.2
+LHX2_1	Lhx2_bulyk_cell08-0953.2
+LHX3_3	Lhx3_bulyk_cell08-3431.1
+LHX4_1	Lhx4_bulyk_cell08-1719.2
+LHX5_1	Lhx5_bulyk_cell08-2279.1
+LHX6_1	Lhx6_bulyk_cell08-2272.1
+LHX6_2	Lhx6_bulyk_cell08-3432.1
+LHX8_1	Lhx8_bulyk_cell08-2247.2
+LHX9_1	Lhx9_bulyk_cell08-3492.1
+LMX1A_1	Lmx1a_bulyk_cell08-2238.2
+LMX1B_1	Lmx1b_bulyk_cell08-3433.2
+MEIS1_2	Meis1_bulyk_cell08-2335.1
+MEOX1_1	Meox1_bulyk_cell08-2310.2
+MEIS1_3	Mrg1_bulyk_cell08-2246.2
+MEIS3_1	Mrg2_bulyk_cell08-2302.1
+MSX1_2	Msx1_bulyk_cell08-3031.2
+MSX2_1	Msx2_bulyk_cell08-3449.1
+MSX2_2	Msx3_bulyk_cell08-3206.1
+NKX1-1_1	Nkx1-1_bulyk_cell08-3856.3
+NKX1-2_1	Nkx1-2_bulyk_cell08-3214.1
+NKX2-2_2	Nkx2-2_bulyk_cell08-2823.1
+NKX2-3_1	Nkx2-3_bulyk_cell08-3435.1
+NKX2-4_1	Nkx2-4_bulyk_cell08-3074.1
+NKX2-5_5	Nkx2-5_bulyk_cell08-3436.1
+NKX2-6_1	Nkx2-6_bulyk_cell08-3437.1
+NKX2-8_1	Nkx2-9_bulyk_cell08-3082.1
+NKX3-1_4	Nkx3-1_bulyk_cell08-2923.2
+NKX6-1_2	Nkx6-1_bulyk_cell08-2825.1
+NKX6-1_3	Nkx6-1_bulyk_cell08-2825.2
+NKX6-3_1	Nkx6-3_bulyk_cell08-3446.1
+OBOX1_1	Obox1_bulyk_cell08-3970.2
+OBOX2_1	Obox2_bulyk_cell08-3438.2
+OBOX3_1	Obox3_bulyk_cell08-3439.1
+OBOX5_1	Obox5_bulyk_cell08-2284.1
+OBOX5_2	Obox5_bulyk_cell08-3963.2
+OBOX6_1	Obox6_bulyk_cell08-3440.2
+NOBOX_2	Og2x_bulyk_cell08-3719.1
+OTP_1	Otp_bulyk_cell08-3496.1
+OTX1_1	Otx1_bulyk_cell08-2325.1
+OTX2_1	Otx2_bulyk_cell08-3441.1
+PAX4_6	Pax4_bulyk_cell08-3989.2
+PAX6_4	Pax6_bulyk_cell08-3838.3
+PAX7_1	Pax7_bulyk_cell08-3783.1
+PBX1_5	Pbx1_bulyk_cell08-3203.1
+PHOX2A_1	Phox2a_bulyk_cell08-3947.1
+PHOX2B_1	Phox2b_bulyk_cell08-3948.1
+PITX1_1	Pitx1_bulyk_cell08-2312.1
+PITX2_2	Pitx2_bulyk_cell08-2274.3
+PITX3_1	Pitx3_bulyk_cell08-3497.2
+PKNOX1_1	Pknox1_bulyk_cell08-2364.2
+PKNOX2_1	Pknox2_bulyk_cell08-3077.2
+POU1F1_3	Pou1f1_bulyk_cell08-3818.1
+POU2F2_known14	POU2F1_12	Pou2f1_bulyk_cell08-3081.2
+POU2F2_1	Pou2f2_bulyk_cell08-3748.1
+POU2F3_1	Pou2f3_bulyk_cell08-3986.2
+POU3F1_1	Pou3f1_bulyk_cell08-3819.1
+POU3F2_4	Pou3f2_bulyk_cell08-2824.1
+POU3F3_1	Pou3f3_bulyk_cell08-3235.2
+POU3F4_1	Pou3f4_bulyk_cell08-3773.1
+POU4F3_1	Pou4f3_bulyk_cell08-2791.1
+POU6F1_2	Pou6f1_bulyk_cell08-1731.2
+POU6F1_3	Pou6f1_bulyk_cell08-3733.1
+PROP1_1	Prop1_bulyk_cell08-3949.1
+PRRX1_1	Prrx1_bulyk_cell08-3442.1
+PRRX2_3	Prrx2_bulyk_cell08-3072.1
+RAX_1	Rax_bulyk_cell08-3443.1
+RHOXF1_1	Rhox11_bulyk_cell08-1765.2
+RHOXF1_2	Rhox11_bulyk_cell08-2205.1
+RHOXF2_1	Rhox6_bulyk_cell08-4251.1
+SHOX2_1	Shox2_bulyk_cell08-2641.2
+SIX5_known2	SIX1_1	Six1_bulyk_cell08-0935.2
+SIX5_known3	SIX2_1	Six2_bulyk_cell08-2307.2
+SIX5_known4	SIX3_1	Six3_bulyk_cell08-1732.2
+SIX5_known5	SIX4_1	Six4_bulyk_cell08-2860.1
+SIX5_known6	SIX6_2	Six6_bulyk_cell08-2267.4
+SIX5_known7	SIX6_3	Six6_bulyk_cell08-2267.5
+HNF1A_3	Tcf1_bulyk_cell08-2666.2
+HNF1B_2	Tcf2_bulyk_cell08-0913.2
+TGIF1_2	Tgif1_bulyk_cell08-2342.2
+TGIF2_1	Tgif2_bulyk_cell08-3451.1
+NKX2-1_3	Titf1_bulyk_cell08-1722.2
+TLX2_2	Tlx2_bulyk_cell08-3498.2
+UNCX_1	Uncx4.1_bulyk_cell08-2281.2
+VAX1_1	Vax1_bulyk_cell08-3499.1
+VAX2_1	Vax2_bulyk_cell08-3500.1
+VSX1_1	Vsx1_bulyk_cell08-1728.1
+BCL6B_2	BCL6B_jolma_DBD_M1
+CTCF_known2	CTCF_2	CTCF_jolma_full_M2
+EGR1_known8	EGR1_5	EGR1_jolma_DBD_M3
+EGR1_known9	EGR1_6	EGR1_jolma_full_M4
+EGR1_known10	EGR2_2	EGR2_jolma_DBD_M5
+EGR1_known11	EGR2_3	EGR2_jolma_full_M6
+EGR3_2	EGR3_jolma_DBD_M7
+EGR4_2	EGR4_jolma_DBD_M8
+EGR3_3	Egr3_jolma_DBD_M9
+GLI2_1	GLI2_jolma_DBD_M10
+GLI2_2	GLI2_jolma_DBD_M11
+GLIS1_1	GLIS1_jolma_DBD_M12
+GLIS2_2	GLIS2_jolma_DBD_M13
+GLIS3_1	GLIS3_jolma_DBD_M14
+HIC2_1	HIC2_jolma_DBD_M15
+HINFP_2	HINFP1_jolma_full_M16
+HINFP_3	HINFP1_jolma_full_M17
+HINFP_4	HINFP1_jolma_full_M18
+HIC1_4	Hic1_jolma_DBD_M19
+HIC1_5	Hic1_jolma_DBD_M20
+KLF13_1	KLF13_jolma_full_M21
+KLF14_1	KLF14_jolma_DBD_M22
+KLF16_1	KLF16_jolma_DBD_M23
+KLF12_2	Klf12_jolma_DBD_M24
+PRDM1_known2	PRDM1_2	PRDM1_jolma_full_M25
+SCRT1_1	SCRT1_jolma_DBD_M26
+SCRT2_1	SCRT2_jolma_DBD_M27
+SNAI2_1	SNAI2_jolma_DBD_M28
+SP1_known8	SP1_7	SP1_jolma_DBD_M29
+SP1_known9	SP3_2	SP3_jolma_DBD_M30
+SP4_2	SP4_jolma_full_M31
+SP8_1	SP8_jolma_DBD_M32
+YY1_known7	YY1_7	YY1_jolma_full_M33
+YY2_1	YY2_jolma_DBD_M34
+YY2_2	YY2_jolma_full_M35
+ZBED1_1	ZBED1_jolma_DBD_M36
+ZBTB7A_known3	ZBTB7A_2	ZBTB7A_jolma_DBD_M37
+ZBTB7A_known4	ZBTB7B_2	ZBTB7B_jolma_full_M38
+ZBTB7C_1	ZBTB7C_jolma_full_M39
+ZIC1_3	ZIC1_jolma_full_M40
+ZIC3_3	ZIC3_jolma_full_M41
+ZIC4_1	ZIC4_jolma_DBD_M42
+ZNF143_known2	ZNF143_2	ZNF143_jolma_DBD_M43
+ZBTB18_2	ZNF238_jolma_DBD_M44
+ZBTB18_3	ZNF238_jolma_full_M45
+ZKSCAN3_1	ZNF306_jolma_full_M46
+ZNF410_2	ZNF410_jolma_DBD_M47
+ZNF524_1	ZNF524_jolma_full_M48
+ZNF524_2	ZNF524_jolma_full_M49
+ZNF740_2	ZNF740_jolma_DBD_M50
+ZNF740_3	ZNF740_jolma_full_M51
+ZNF75A_1	ZNF75A_jolma_DBD_M52
+ZNF784_1	ZNF784_jolma_full_M53
+ZSCAN4_3	ZSCAN4_jolma_full_M54
+ZNF652_1	Zfp652_jolma_DBD_M55
+ZNF740_4	Zfp740_jolma_DBD_M56
+ZIC3_4	Zic3_jolma_DBD_M57
+CENPB_1	CENPB_jolma_full_M58
+GRHL1_1	GRHL1_jolma_DBD_M59
+GRHL1_2	GRHL1_jolma_DBD_M60
+GRHL1_3	GRHL1_jolma_full_M61
+TFCP2_4	TFCP2_jolma_full_M62
+TFCP2_5	TFCP2_jolma_full_M63
+CUX1_8	CUX1_jolma_DBD_M64
+CUX1_9	CUX1_jolma_DBD_M65
+CUX1_10	CUX1_jolma_DBD_M66
+CUX2_1	CUX2_jolma_DBD_M67
+CUX2_2	CUX2_jolma_DBD_M68
+ONECUT1_2	ONECUT1_jolma_DBD_M69
+ONECUT1_3	ONECUT1_jolma_full_M70
+ONECUT2_1	ONECUT2_jolma_DBD_M71
+ONECUT3_1	ONECUT3_jolma_DBD_M72
+E2F2_2	E2F2_jolma_DBD_M73
+E2F2_3	E2F2_jolma_DBD_M74
+E2F_known24	E2F3_2	E2F3_jolma_DBD_M75
+E2F_known25	E2F3_3	E2F3_jolma_DBD_M76
+E2F_known26	E2F3_4	E2F3_jolma_DBD_M77
+E2F7_1	E2F7_jolma_DBD_M78
+EBF1_known4	EBF1_4	EBF1_jolma_full_M79
+EHF_2	EHF_jolma_full_M80
+ELF1_known2	ELF1_2	ELF1_jolma_DBD_M81
+ELF1_known3	ELF1_3	ELF1_jolma_full_M82
+ELF3_2	ELF3_jolma_DBD_M83
+ELF3_3	ELF3_jolma_full_M84
+ELF4_1	ELF4_jolma_full_M85
+ELF5_2	ELF5_jolma_DBD_M86
+ELF5_3	ELF5_jolma_full_M87
+ETS_known11	ELK1_4	ELK1_jolma_DBD_M88
+ETS_known12	ELK1_5	ELK1_jolma_full_M89
+ETS_known13	ELK1_6	ELK1_jolma_full_M90
+ELK3_1	ELK3_jolma_DBD_M91
+ELK4_2	ELK4_jolma_DBD_M92
+ERF_1	ERF_jolma_DBD_M93
+ERG_1	ERG_jolma_DBD_M94
+ERG_2	ERG_jolma_DBD_M95
+ERG_3	ERG_jolma_full_M96
+ERG_4	ERG_jolma_full_M97
+ETS_known14	ETS1_4	ETS1_jolma_DBD_M98
+ETS_known15	ETS1_5	ETS1_jolma_DBD_M99
+ETS_known16	ETS1_6	ETS1_jolma_full_M100
+ETS_known17	ETS1_7	ETS1_jolma_full_M101
+ETV1_1	ETV1_jolma_DBD_M102
+ETV2_1	ETV2_jolma_DBD_M103
+ETV3_1	ETV3_jolma_DBD_M104
+ETV4_2	ETV4_jolma_DBD_M105
+ETV5_1	ETV5_jolma_DBD_M106
+ETV6_1	ETV6_jolma_full_M107
+ETV6_2	ETV6_jolma_full_M108
+ELF5_4	Elf5_jolma_DBD_M109
+ELK3_2	Elk3_jolma_DBD_M110
+FEV_2	FEV_jolma_DBD_M111
+FLI1_1	FLI1_jolma_DBD_M112
+FLI1_2	FLI1_jolma_DBD_M113
+FLI1_3	FLI1_jolma_full_M114
+FLI1_4	FLI1_jolma_full_M115
+ETS_known18	GABPA_3	GABPA_jolma_full_M116
+SPDEF_2	SPDEF_jolma_DBD_M117
+SPDEF_3	SPDEF_jolma_DBD_M118
+SPDEF_4	SPDEF_jolma_DBD_M119
+SPDEF_5	SPDEF_jolma_full_M120
+SPDEF_6	SPDEF_jolma_full_M121
+SPDEF_7	SPDEF_jolma_full_M122
+SPI1_known4	SPI1_4	SPI1_jolma_full_M123
+SPIB_2	SPIB_jolma_DBD_M124
+SPIC_1	SPIC_jolma_full_M125
+SPIC_2	Spic_jolma_DBD_M126
+GATA_known19	GATA3_4	GATA3_jolma_DBD_M127
+GATA_known20	GATA3_5	GATA3_jolma_full_M128
+GATA_known21	GATA4_2	GATA4_jolma_DBD_M129
+GATA_known22	GATA5_2	GATA5_jolma_DBD_M130
+GCM1_2	GCM1_jolma_DBD_M131
+GCM1_3	GCM1_jolma_full_M132
+GCM1_4	GCM1_jolma_full_M133
+GCM2_1	GCM2_jolma_DBD_M134
+TCF7L2_known7	LEF1_5	LEF1_jolma_DBD_M135
+SOX9_3	SOX9_jolma_DBD_M136
+TCF7L1_2	TCF7L1_jolma_full_M137
+TCF7_2	Tcf7_jolma_DBD_M138
+HOMEZ_2	HOMEZ_jolma_DBD_M139
+HSF_known4	HSF1_4	HSF1_jolma_DBD_M140
+HSF_known5	HSF1_5	HSF1_jolma_full_M141
+HSF2_2	HSF2_jolma_DBD_M142
+HSF4_1	HSF4_jolma_DBD_M143
+HSFY2_1	HSFY2_jolma_DBD_M144
+HSFY2_2	HSFY2_jolma_DBD_M145
+HSFY2_3	HSFY2_jolma_DBD_M146
+IRF_known14	IRF3_2	IRF3_jolma_full_M147
+IRF4_2	IRF4_jolma_full_M148
+IRF_known15	IRF5_2	IRF5_jolma_full_M149
+IRF_known16	IRF5_3	IRF5_jolma_full_M150
+IRF_known17	IRF7_2	IRF7_jolma_DBD_M151
+IRF_known18	IRF7_3	IRF7_jolma_DBD_M152
+IRF_known19	IRF8_2	IRF8_jolma_DBD_M153
+IRF_known20	IRF8_3	IRF8_jolma_full_M154
+IRF_known21	IRF9_3	IRF9_jolma_full_M155
+MEF2_known12	MEF2A_5	MEF2A_jolma_DBD_M156
+MEF2B_1	MEF2B_jolma_full_M157
+MEF2D_1	MEF2D_jolma_DBD_M158
+SRF_known9	SRF_9	SRF_jolma_DBD_M159
+SRF_known10	SRF_10	SRF_jolma_full_M160
+SMAD3_3	SMAD3_jolma_DBD_M161
+MEIS1_4	MEIS1_jolma_DBD_M162
+MEIS2_1	MEIS2_jolma_DBD_M163
+MEIS2_2	MEIS2_jolma_DBD_M164
+MEIS3_2	MEIS3_jolma_DBD_M165
+MEIS3_3	MEIS3_jolma_DBD_M166
+MEIS2_3	Meis2_jolma_DBD_M167
+MEIS2_4	Meis2_jolma_DBD_M168
+MEIS3_4	Meis3_jolma_DBD_M169
+MEIS3_5	Meis3_jolma_DBD_M170
+PKNOX1_2	PKNOX1_jolma_DBD_M171
+PKNOX2_2	PKNOX2_jolma_DBD_M172
+PKNOX2_3	Pknox2_jolma_DBD_M173
+TGIF1_3	TGIF1_jolma_DBD_M174
+TGIF2LX_1	TGIF2LX_jolma_full_M175
+TGIF2_2	TGIF2_jolma_DBD_M176
+MYBL1_2	MYBL1_jolma_DBD_M177
+MYBL1_3	MYBL1_jolma_DBD_M178
+MYBL1_4	MYBL1_jolma_DBD_M179
+MYBL1_5	MYBL1_jolma_DBD_M180
+MYBL2_1	MYBL2_jolma_DBD_M181
+MYBL2_2	MYBL2_jolma_DBD_M182
+MYBL2_3	MYBL2_jolma_DBD_M183
+MYBL2_4	MYBL2_jolma_DBD_M184
+NFAT5_1	NFAT5_jolma_DBD_M185
+NFATC1_1	NFATC1_jolma_full_M186
+NFATC1_2	NFATC1_jolma_full_M187
+NFATC1_3	NFATC1_jolma_full_M188
+NFKB_known10	NFKB1_3	NFKB1_jolma_DBD_M189
+NFKB_known11	NFKB2_1	NFKB2_jolma_DBD_M190
+NFIA_1	NFIA_jolma_full_M191
+NFIB_1	NFIB_jolma_full_M192
+NFIX_1	NFIX_jolma_full_M193
+NRF1_known2	NRF1_2	NRF1_jolma_full_M194
+PAX1_2	PAX1_jolma_DBD_M195
+PAX2_4	PAX2_jolma_DBD_M196
+PAX3_3	PAX3_jolma_DBD_M197
+PAX4_7	PAX4_jolma_DBD_M198
+PAX4_8	PAX4_jolma_full_M199
+PAX5_known5	PAX5_4	PAX5_jolma_DBD_M200
+PAX6_5	PAX6_jolma_DBD_M201
+PAX7_2	PAX7_jolma_DBD_M202
+PAX7_3	PAX7_jolma_full_M203
+PAX9_1	PAX9_jolma_DBD_M204
+POU1F1_4	POU1F1_jolma_DBD_M205
+POU1F1_5	POU1F1_jolma_DBD_M206
+POU2F2_known15	POU2F1_13	POU2F1_jolma_DBD_M207
+POU2F2_known16	POU2F1_14	POU2F1_jolma_DBD_M208
+POU2F2_2	POU2F2_jolma_DBD_M209
+POU2F2_3	POU2F2_jolma_DBD_M210
+POU2F3_2	POU2F3_jolma_DBD_M211
+POU2F3_3	POU2F3_jolma_DBD_M212
+POU3F1_2	POU3F1_jolma_DBD_M213
+POU3F1_3	POU3F1_jolma_DBD_M214
+POU3F2_5	POU3F2_jolma_DBD_M215
+POU3F2_6	POU3F2_jolma_DBD_M216
+POU3F3_2	POU3F3_jolma_DBD_M217
+POU3F3_3	POU3F3_jolma_DBD_M218
+POU3F3_4	POU3F3_jolma_DBD_M219
+POU3F4_2	POU3F4_jolma_DBD_M220
+POU3F4_3	POU3F4_jolma_DBD_M221
+POU4F1_1	POU4F1_jolma_DBD_M222
+POU4F2_1	POU4F2_jolma_DBD_M223
+POU4F2_2	POU4F2_jolma_full_M224
+POU4F3_2	POU4F3_jolma_DBD_M225
+POU5F1_known4	POU5F1B_1	POU5F1P1_jolma_DBD_M226
+POU5F1_known5	POU5F1B_2	POU5F1P1_jolma_DBD_M227
+POU6F2_1	POU6F2_jolma_DBD_M228
+POU6F2_2	POU6F2_jolma_DBD_M229
+POU6F2_3	POU6F2_jolma_full_M230
+POU2F2_4	Pou2f2_jolma_DBD_M231
+POU2F2_5	Pou2f2_jolma_DBD_M232
+PROX1_1	PROX1_jolma_DBD_M233
+RFX2_1	RFX2_jolma_DBD_M234
+RFX2_2	RFX2_jolma_DBD_M235
+RFX3_2	RFX3_jolma_DBD_M236
+RFX3_3	RFX3_jolma_DBD_M237
+RFX5_known6	RFX4_2	RFX4_jolma_DBD_M238
+RFX5_known7	RFX4_3	RFX4_jolma_DBD_M239
+RFX5_known8	RFX5_1	RFX5_jolma_DBD_M240
+RFX5_known9	RFX5_2	RFX5_jolma_DBD_M241
+RFX2_3	Rfx2_jolma_DBD_M242
+RFX2_4	Rfx2_jolma_DBD_M243
+RFX3_4	Rfx3_jolma_DBD_M244
+RUNX2_4	RUNX2_jolma_DBD_M245
+RUNX2_5	RUNX2_jolma_DBD_M246
+RUNX2_6	RUNX2_jolma_DBD_M247
+RUNX3_1	RUNX3_jolma_DBD_M248
+RUNX3_2	RUNX3_jolma_DBD_M249
+RUNX3_3	RUNX3_jolma_DBD_M250
+RUNX3_4	RUNX3_jolma_full_M251
+GMEB2_1	GMEB2_jolma_DBD_M252
+GMEB2_2	GMEB2_jolma_DBD_M253
+GMEB2_3	GMEB2_jolma_DBD_M254
+EOMES_2	EOMES_jolma_DBD_M255
+EOMES_3	EOMES_jolma_DBD_M256
+MGA_1	MGA_jolma_DBD_M257
+MGA_2	MGA_jolma_DBD_M258
+MGA_3	MGA_jolma_DBD_M259
+TBR1_1	TBR1_jolma_DBD_M260
+TBR1_2	TBR1_jolma_full_M261
+TBX15_1	TBX15_jolma_DBD_M262
+TBX15_2	TBX15_jolma_DBD_M263
+TBX19_1	TBX19_jolma_DBD_M264
+TBX1_1	TBX1_jolma_DBD_M265
+TBX1_2	TBX1_jolma_DBD_M266
+TBX1_3	TBX1_jolma_DBD_M267
+TBX1_4	TBX1_jolma_DBD_M268
+TBX20_1	TBX20_jolma_DBD_M269
+TBX20_2	TBX20_jolma_DBD_M270
+TBX20_3	TBX20_jolma_DBD_M271
+TBX20_4	TBX20_jolma_full_M272
+TBX21_1	TBX21_jolma_DBD_M273
+TBX21_2	TBX21_jolma_DBD_M274
+TBX21_3	TBX21_jolma_DBD_M275
+TBX21_4	TBX21_jolma_full_M276
+TBX21_5	TBX21_jolma_full_M277
+TBX21_6	TBX21_jolma_full_M278
+TBX2_1	TBX2_jolma_full_M279
+TBX2_2	TBX2_jolma_full_M280
+TBX4_1	TBX4_jolma_DBD_M281
+TBX4_2	TBX4_jolma_DBD_M282
+TBX5_4	TBX5_jolma_DBD_M283
+TBX5_5	TBX5_jolma_DBD_M284
+T_3	T_jolma_full_M285
+TEAD1_3	TEAD1_jolma_full_M286
+TEAD1_4	TEAD1_jolma_full_M287
+TEAD3_1	TEAD3_jolma_DBD_M288
+TEAD3_2	TEAD3_jolma_DBD_M289
+TEAD4_1	TEAD4_jolma_DBD_M290
+TFAP2_known11	TFAP2A_6	TFAP2A_jolma_DBD_M291
+TFAP2_known12	TFAP2A_7	TFAP2A_jolma_DBD_M292
+TFAP2_known13	TFAP2A_8	TFAP2A_jolma_DBD_M293
+TFAP2B_2	TFAP2B_jolma_DBD_M294
+TFAP2B_3	TFAP2B_jolma_DBD_M295
+TFAP2B_4	TFAP2B_jolma_DBD_M296
+TFAP2_known14	TFAP2C_3	TFAP2C_jolma_DBD_M297
+TFAP2_known15	TFAP2C_4	TFAP2C_jolma_DBD_M298
+TFAP2_known16	TFAP2C_5	TFAP2C_jolma_DBD_M299
+TFAP2_known17	TFAP2C_6	TFAP2C_jolma_full_M300
+TFAP2_known18	TFAP2C_7	TFAP2C_jolma_full_M301
+TFAP2_known19	TFAP2C_8	TFAP2C_jolma_full_M302
+TFAP2_known20	TFAP2A_9	Tcfap2a_jolma_DBD_M303
+TFAP2_known21	TFAP2A_10	Tcfap2a_jolma_DBD_M304
+TFAP2_known22	TFAP2A_11	Tcfap2a_jolma_DBD_M305
+ARNTL_1	ARNTL_jolma_DBD_M306
+ASCL2_2	Ascl2_jolma_DBD_M307
+ATOH1_1	Atoh1_jolma_DBD_M308
+BHLHA15_1	BHLHA15_jolma_DBD_M309
+BHLHE40_known3	BHLHE40_3	BHLHB2_jolma_DBD_M310
+BHLHE41_1	BHLHB3_jolma_full_M311
+BHLHE22_1	BHLHE22_jolma_DBD_M312
+BHLHE23_1	BHLHE23_jolma_DBD_M313
+BHLHE41_2	BHLHE41_jolma_full_M314
+BHLHE40_known4	BHLHE40_4	Bhlhb2_jolma_DBD_M315
+CLOCK_1	CLOCK_jolma_DBD_M316
+FIGLA_1	FIGLA_jolma_DBD_M317
+HES5_1	HES5_jolma_DBD_M318
+HES7_1	HES7_jolma_DBD_M319
+HEY1_known1	HEY1_1	HEY1_jolma_DBD_M320
+HEY2_1	HEY2_jolma_DBD_M321
+HEY2_2	HEY2_jolma_full_M322
+ID4_1	ID4_jolma_DBD_M323
+MYC_known20	MAX_4	MAX_jolma_DBD_M324
+MYC_known21	MAX_5	MAX_jolma_DBD_M325
+MESP1_1	MESP1_jolma_DBD_M326
+MLXIPL_1	MLXIPL_jolma_full_M327
+MLX_1	MLX_jolma_full_M328
+MNT_1	MNT_jolma_DBD_M329
+MYF6_2	MYF6_jolma_full_M330
+MLX_2	Mlx_jolma_DBD_M331
+NEUROD2_1	NEUROD2_jolma_full_M332
+NEUROG2_1	NEUROG2_jolma_DBD_M333
+NEUROG2_2	NEUROG2_jolma_full_M334
+NHLH1_4	NHLH1_jolma_DBD_M335
+NHLH1_5	NHLH1_jolma_full_M336
+OLIG1_1	OLIG1_jolma_DBD_M337
+OLIG2_1	OLIG2_jolma_DBD_M338
+OLIG2_2	OLIG2_jolma_full_M339
+OLIG3_1	OLIG3_jolma_DBD_M340
+SREBP_known5	SREBF2_1	SREBF2_jolma_DBD_M341
+SREBP_known6	SREBF1_4	Srebf1_jolma_DBD_M342
+TCF3_7	TCF3_jolma_DBD_M343
+TCF4_1	TCF4_jolma_DBD_M344
+TCF4_2	TCF4_jolma_full_M345
+TFAP4_5	TFAP4_jolma_DBD_M346
+TFAP4_6	TFAP4_jolma_full_M347
+TFE3_1	TFE3_jolma_DBD_M348
+TFEB_1	TFEB_jolma_full_M349
+TCF21_1	Tcf21_jolma_DBD_M350
+MYC_known22	USF1_2	USF1_jolma_DBD_M351
+ATF4_2	ATF4_jolma_DBD_M352
+ATF7_1	ATF7_jolma_DBD_M353
+ATF4_3	Atf4_jolma_DBD_M354
+BATF_known1	BATF3_1	BATF3_jolma_DBD_M355
+CEBPB_known8	CEBPB_3	CEBPB_jolma_DBD_M356
+CEBPB_known9	CEBPB_4	CEBPB_jolma_full_M357
+CEBPD_2	CEBPD_jolma_DBD_M358
+CEBPE_1	CEBPE_jolma_DBD_M359
+CEBPG_2	CEBPG_jolma_DBD_M360
+CEBPG_3	CEBPG_jolma_full_M361
+CREB3L1_1	CREB3L1_jolma_DBD_M362
+CREB3L1_2	CREB3L1_jolma_DBD_M363
+CREB3L1_3	CREB3L1_jolma_full_M364
+CREB3_1	CREB3_jolma_full_M365
+CREB3_2	CREB3_jolma_full_M366
+CEBPB_known10	CEBPB_5	Cebpb_jolma_DBD_M367
+CREB3L2_1	Creb3l2_jolma_DBD_M368
+CREB3L2_2	Creb3l2_jolma_DBD_M369
+CREB5_1	Creb5_jolma_DBD_M370
+DBP_2	DBP_jolma_DBD_M371
+DBP_3	DBP_jolma_full_M372
+DBP_4	Dbp_jolma_DBD_M373
+HLF_3	HLF_jolma_full_M374
+HLF_4	Hlf_jolma_DBD_M375
+JDP2_2	JDP2_jolma_DBD_M376
+JDP2_3	JDP2_jolma_DBD_M377
+JDP2_4	JDP2_jolma_full_M378
+JDP2_5	JDP2_jolma_full_M379
+JDP2_6	Jdp2_jolma_DBD_M380
+JDP2_7	Jdp2_jolma_DBD_M381
+MAFF_1	MAFF_jolma_DBD_M382
+MAFG_1	MAFG_jolma_full_M383
+MAF_known6	MAFK_2	MAFK_jolma_DBD_M384
+MAF_known7	MAFK_3	MAFK_jolma_DBD_M385
+MAF_known8	MAFK_4	MAFK_jolma_full_M386
+MAF_known9	MAFK_5	MAFK_jolma_full_M387
+MAF_known10	MAFB_3	Mafb_jolma_DBD_M388
+MAF_known11	MAFB_4	Mafb_jolma_DBD_M389
+MAF_known12	MAFB_5	Mafb_jolma_DBD_M390
+NFE2_known2	NFE2_2	NFE2_jolma_DBD_M391
+NFIL3_3	NFIL3_jolma_DBD_M392
+NRL_1	NRL_jolma_DBD_M393
+TEF_2	TEF_jolma_DBD_M394
+TEF_3	TEF_jolma_FL_M395
+XBP1_3	XBP1_jolma_DBD_M396
+XBP1_4	XBP1_jolma_DBD_M397
+FOXB1_1	FOXB1_jolma_DBD_M398
+FOXB1_2	FOXB1_jolma_DBD_M399
+FOXB1_3	FOXB1_jolma_DBD_M400
+FOXB1_4	FOXB1_jolma_full_M401
+FOXC1_3	FOXC1_jolma_DBD_M402
+FOXC1_4	FOXC1_jolma_DBD_M403
+FOXC1_5	FOXC1_jolma_DBD_M404
+FOXC2_1	FOXC2_jolma_DBD_M405
+FOXC2_2	FOXC2_jolma_DBD_M406
+FOXC2_3	FOXC2_jolma_DBD_M407
+FOXD2_1	FOXD2_jolma_DBD_M408
+FOXD2_2	FOXD2_jolma_DBD_M409
+FOXD3_3	FOXD3_jolma_DBD_M410
+FOXD3_4	FOXD3_jolma_DBD_M411
+FOXG1_1	FOXG1_jolma_DBD_M412
+FOXG1_2	FOXG1_jolma_DBD_M413
+FOXI1_3	FOXI1_jolma_full_M414
+FOXI1_4	FOXI1_jolma_full_M415
+FOXJ2_3	FOXJ2_jolma_DBD_M416
+FOXJ2_4	FOXJ2_jolma_DBD_M417
+FOXJ2_5	FOXJ2_jolma_DBD_M418
+FOXJ3_2	FOXJ3_jolma_DBD_M419
+FOXJ3_3	FOXJ3_jolma_DBD_M420
+FOXJ3_4	FOXJ3_jolma_DBD_M421
+FOXK1_2	FOXK1_jolma_DBD_M422
+FOXL1_4	FOXL1_jolma_full_M423
+FOXL1_5	FOXL1_jolma_full_M424
+FOXO1_3	FOXO1_jolma_DBD_M425
+FOXO1_4	FOXO1_jolma_DBD_M426
+FOXO1_5	FOXO1_jolma_DBD_M427
+FOXO3_4	FOXO3_jolma_full_M428
+FOXO3_5	FOXO3_jolma_full_M429
+FOXO3_6	FOXO3_jolma_full_M430
+FOXO4_3	FOXO4_jolma_DBD_M431
+FOXO4_4	FOXO4_jolma_DBD_M432
+FOXO4_5	FOXO4_jolma_DBD_M433
+FOXO6_1	FOXO6_jolma_DBD_M434
+FOXO6_2	FOXO6_jolma_DBD_M435
+FOXO6_3	FOXO6_jolma_DBD_M436
+FOXP3_2	FOXP3_jolma_DBD_M437
+FOXC1_6	Foxc1_jolma_DBD_M438
+FOXC1_7	Foxc1_jolma_DBD_M439
+FOXG1_3	Foxg1_jolma_DBD_M440
+FOXG1_4	Foxg1_jolma_DBD_M441
+FOXG1_5	Foxg1_jolma_DBD_M442
+FOXJ3_5	Foxj3_jolma_DBD_M443
+FOXJ3_6	Foxj3_jolma_DBD_M444
+FOXJ3_7	Foxj3_jolma_DBD_M445
+FOXJ3_8	Foxj3_jolma_DBD_M446
+FOXK1_3	Foxk1_jolma_DBD_M447
+FOXK1_4	Foxk1_jolma_DBD_M448
+ALX3_2	ALX3_jolma_DBD_M449
+ALX3_3	ALX3_jolma_full_M450
+ALX3_4	ALX3_jolma_full_M451
+ALX4_3	ALX4_jolma_DBD_M452
+ARX_2	ARX_jolma_DBD_M453
+ALX1_4	Alx1_jolma_DBD_M454
+ALX1_5	Alx1_jolma_DBD_M455
+ALX4_4	Alx4_jolma_DBD_M456
+ARX_3	Arx_jolma_DBD_M457
+BARHL2_2	BARHL2_jolma_DBD_M458
+BARHL2_3	BARHL2_jolma_DBD_M459
+BARHL2_4	BARHL2_jolma_DBD_M460
+BARHL2_5	BARHL2_jolma_full_M461
+BARHL2_6	BARHL2_jolma_full_M462
+BARHL2_7	BARHL2_jolma_full_M463
+BARX1_2	BARX1_jolma_DBD_M464
+BARX1_3	BARX1_jolma_DBD_M465
+BSX_2	BSX_jolma_DBD_M466
+BARHL1_2	Barhl1_jolma_DBD_M467
+BARHL1_3	Barhl1_jolma_DBD_M468
+BARHL1_4	Barhl1_jolma_DBD_M469
+ALX1_6	CART1_jolma_DBD_M470
+CDX1_2	CDX1_jolma_DBD_M471
+CDX2_3	CDX2_jolma_DBD_M472
+DLX1_2	DLX1_jolma_DBD_M473
+DLX2_2	DLX2_jolma_DBD_M474
+DLX3_2	DLX3_jolma_DBD_M475
+DLX4_2	DLX4_jolma_DBD_M476
+DLX5_2	DLX5_jolma_FL_M477
+DLX6_1	DLX6_jolma_DBD_M478
+DMBX1_2	DMBX1_jolma_DBD_M479
+DPRX_1	DPRX_jolma_DBD_M480
+DPRX_2	DPRX_jolma_DBD_M481
+DRGX_1	DRGX_jolma_DBD_M482
+DUXA_1	DUXA_jolma_DBD_M483
+DLX1_3	Dlx1_jolma_DBD_M484
+DLX2_3	Dlx2_jolma_DBD_M485
+EMX1_1	EMX1_jolma_DBD_M486
+EMX1_2	EMX1_jolma_DBD_M487
+EMX2_2	EMX2_jolma_DBD_M488
+EMX2_3	EMX2_jolma_DBD_M489
+EN1_4	EN1_jolma_DBD_M490
+EN1_5	EN1_jolma_DBD_M491
+EN1_6	EN1_jolma_full_M492
+EN1_7	EN1_jolma_full_M493
+EN2_2	EN2_jolma_DBD_M494
+EN2_3	EN2_jolma_full_M495
+ESX1_2	ESX1_jolma_DBD_M496
+ESX1_3	ESX1_jolma_full_M497
+EVX1_2	EVX1_jolma_DBD_M498
+EVX2_2	EVX2_jolma_DBD_M499
+EN2_4	En2_jolma_DBD_M500
+GBX1_2	GBX1_jolma_DBD_M501
+GBX2_2	GBX2_jolma_DBD_M502
+GBX2_3	GBX2_jolma_DBD_M503
+GBX2_4	GBX2_jolma_full_M504
+GSC2_1	GSC2_jolma_DBD_M505
+GSC_2	GSC_jolma_full_M506
+GSX1_1	GSX1_jolma_DBD_M507
+GSX2_2	GSX2_jolma_DBD_M508
+GBX1_3	Gbx1_jolma_DBD_M509
+GBX2_5	Gbx2_jolma_DBD_M510
+HESX1_1	HESX1_jolma_DBD_M511
+HESX1_2	HESX1_jolma_DBD_M512
+HMBOX1_2	HMBOX1_jolma_DBD_M513
+HMX1_2	HMX1_jolma_DBD_M514
+HMX2_2	HMX2_jolma_DBD_M515
+HMX3_3	HMX3_jolma_DBD_M516
+HNF1A_4	HNF1A_jolma_full_M517
+HNF1B_3	HNF1B_jolma_full_M518
+HNF1B_4	HNF1B_jolma_full_M519
+HOXA10_2	HOXA10_jolma_DBD_M520
+HOXA10_3	HOXA10_jolma_DBD_M521
+HOXA13_2	HOXA13_jolma_DBD_M522
+HOXA13_3	HOXA13_jolma_DBD_M523
+HOXA13_4	HOXA13_jolma_full_M524
+HOXA13_5	HOXA13_jolma_full_M525
+HOXA1_2	HOXA1_jolma_DBD_M526
+HOXA2_2	HOXA2_jolma_DBD_M527
+HOXB13_2	HOXB13_jolma_DBD_M528
+HOXB13_3	HOXB13_jolma_DBD_M529
+HOXB2_1	HOXB2_jolma_DBD_M530
+HOXB3_2	HOXB3_jolma_DBD_M531
+HOXB5_2	HOXB5_jolma_DBD_M532
+HOXC10_2	HOXC10_jolma_DBD_M533
+HOXC10_3	HOXC10_jolma_DBD_M534
+HOXC10_4	HOXC10_jolma_DBD_M535
+HOXC11_2	HOXC11_jolma_DBD_M536
+HOXC11_3	HOXC11_jolma_DBD_M537
+HOXC11_4	HOXC11_jolma_full_M538
+HOXC11_5	HOXC11_jolma_full_M539
+HOXC12_2	HOXC12_jolma_DBD_M540
+HOXC12_3	HOXC12_jolma_DBD_M541
+HOXC13_2	HOXC13_jolma_DBD_M542
+HOXC13_3	HOXC13_jolma_DBD_M543
+HOXD11_2	HOXD11_jolma_DBD_M544
+HOXD11_3	HOXD11_jolma_DBD_M545
+HOXD12_2	HOXD12_jolma_DBD_M546
+HOXD12_3	HOXD12_jolma_DBD_M547
+HOXD13_2	HOXD13_jolma_DBD_M548
+HOXD13_3	HOXD13_jolma_DBD_M549
+HOXD8_2	HOXD8_jolma_DBD_M550
+HOXA11_2	Hoxa11_jolma_DBD_M551
+HOXA11_3	Hoxa11_jolma_DBD_M552
+HOXA2_3	Hoxa2_jolma_DBD_M553
+HOXC10_5	Hoxc10_jolma_DBD_M554
+HOXC10_6	Hoxc10_jolma_DBD_M555
+HOXD13_4	Hoxd13_jolma_DBD_M556
+HOXD13_5	Hoxd13_jolma_DBD_M557
+HOXD3_2	Hoxd3_jolma_DBD_M558
+HOXD9_1	Hoxd9_jolma_DBD_M559
+HOXD9_2	Hoxd9_jolma_DBD_M560
+HOXD9_3	Hoxd9_jolma_DBD_M561
+IRX2_2	IRX2_jolma_DBD_M562
+IRX5_2	IRX5_jolma_DBD_M563
+ISL2_2	ISL2_jolma_DBD_M564
+ISX_2	ISX_jolma_DBD_M565
+ISX_3	ISX_jolma_DBD_M566
+ISX_4	ISX_jolma_full_M567
+IRX3_3	Irx3_jolma_DBD_M568
+LBX2_2	LBX2_jolma_DBD_M569
+LBX2_3	LBX2_jolma_DBD_M570
+LHX2_2	LHX2_jolma_DBD_M571
+LHX2_3	LHX2_jolma_DBD_M572
+LHX6_3	LHX6_jolma_full_M573
+LHX6_4	LHX6_jolma_full_M574
+LHX6_5	LHX6_jolma_full_M575
+LHX9_2	LHX9_jolma_DBD_M576
+LHX9_3	LHX9_jolma_DBD_M577
+LMX1A_2	LMX1A_jolma_DBD_M578
+LMX1B_2	LMX1B_jolma_DBD_M579
+LMX1B_3	LMX1B_jolma_full_M580
+LHX4_2	Lhx4_jolma_DBD_M581
+LHX8_2	Lhx8_jolma_DBD_M582
+LHX8_3	Lhx8_jolma_DBD_M583
+LHX8_4	Lhx8_jolma_DBD_M584
+MEOX1_2	MEOX1_jolma_full_M585
+MEOX2_1	MEOX2_jolma_DBD_M586
+MEOX2_2	MEOX2_jolma_DBD_M587
+MEOX2_3	MEOX2_jolma_DBD_M588
+MIXL1_1	MIXL1_jolma_full_M589
+MNX1_2	MNX1_jolma_DBD_M590
+MSX1_3	MSX1_jolma_DBD_M591
+MSX1_4	MSX1_jolma_DBD_M592
+MSX1_5	MSX1_jolma_full_M593
+MSX2_3	MSX2_jolma_DBD_M594
+MSX2_4	MSX2_jolma_DBD_M595
+MEOX2_4	Meox2_jolma_DBD_M596
+MSX2_5	Msx3_jolma_DBD_M597
+MSX2_6	Msx3_jolma_DBD_M598
+NKX2-3_2	NKX2-3_jolma_DBD_M599
+NKX2-3_3	NKX2-3_jolma_full_M600
+NKX2-8_2	NKX2-8_jolma_DBD_M601
+NKX2-8_3	NKX2-8_jolma_full_M602
+NKX3-1_5	NKX3-1_jolma_full_M603
+NKX3-2_3	NKX3-2_jolma_DBD_M604
+NKX6-1_4	NKX6-1_jolma_DBD_M605
+NKX6-1_5	NKX6-1_jolma_full_M606
+NKX6-2_2	NKX6-2_jolma_DBD_M607
+NKX6-2_3	NKX6-2_jolma_full_M608
+NOTO_1	NOTO_jolma_DBD_M609
+NKX3-1_6	Nkx3-1_jolma_DBD_M610
+NKX6-1_6	Nkx6-1_jolma_DBD_M611
+OTX1_2	OTX1_jolma_DBD_M612
+OTX1_3	OTX1_jolma_DBD_M613
+OTX2_2	OTX2_jolma_DBD_M614
+OTX2_3	OTX2_jolma_DBD_M615
+OTX1_4	Otx1_jolma_DBD_M616
+OTX1_5	Otx1_jolma_DBD_M617
+PDX1_5	PDX1_jolma_DBD_M618
+PDX1_6	PDX1_jolma_DBD_M619
+PHOX2A_2	PHOX2A_jolma_DBD_M620
+PHOX2B_2	PHOX2B_jolma_DBD_M621
+PHOX2B_3	PHOX2B_jolma_full_M622
+PITX1_2	PITX1_jolma_DBD_M623
+PITX1_3	PITX1_jolma_full_M624
+PITX3_2	PITX3_jolma_DBD_M625
+PROP1_2	PROP1_jolma_DBD_M626
+PROP1_3	PROP1_jolma_full_M627
+PRRX1_2	PRRX1_jolma_DBD_M628
+PRRX1_3	PRRX1_jolma_full_M629
+PRRX1_4	PRRX1_jolma_full_M630
+PRRX2_4	PRRX2_jolma_full_M631
+PRRX2_5	Prrx2_jolma_DBD_M632
+RAX2_1	RAXL1_jolma_DBD_M633
+RAX_2	RAX_jolma_DBD_M634
+RHOXF1_3	RHOXF1_jolma_DBD_M635
+RHOXF1_4	RHOXF1_jolma_DBD_M636
+RHOXF1_5	RHOXF1_jolma_full_M637
+RHOXF1_6	RHOXF1_jolma_full_M638
+RHOXF1_7	Rhox11_jolma_DBD_M639
+SHOX2_2	SHOX2_jolma_DBD_M640
+SHOX_1	SHOX_jolma_DBD_M641
+SHOX2_3	Shox2_jolma_DBD_M642
+UNCX_2	UNCX_jolma_DBD_M643
+UNCX_3	UNCX_jolma_DBD_M644
+UNCX_4	Uncx_jolma_DBD_M645
+UNCX_5	Uncx_jolma_DBD_M646
+VAX1_2	VAX1_jolma_DBD_M647
+VAX2_2	VAX2_jolma_DBD_M648
+VENTX_1	VENTX_jolma_DBD_M649
+VENTX_2	VENTX_jolma_DBD_M650
+VSX1_2	VSX1_jolma_DBD_M651
+VSX1_3	VSX1_jolma_full_M652
+VSX2_2	VSX2_jolma_DBD_M653
+VSX1_4	Vsx1_jolma_DBD_M654
+NR3C1_known15	AR_7	AR_jolma_DBD_M655
+NR3C1_known16	AR_8	AR_jolma_full_M656
+NR3C1_known17	AR_9	Ar_jolma_DBD_M657
+ESRRA_known6	ESR1_4	ESR1_jolma_DBD_M658
+ESRRA_known7	ESRRA_3	ESRRA_jolma_DBD_M659
+ESRRA_known8	ESRRA_4	ESRRA_jolma_DBD_M660
+ESRRA_known9	ESRRA_5	ESRRA_jolma_DBD_M661
+ESRRB_2	ESRRB_jolma_DBD_M662
+ESRRG_1	ESRRG_jolma_full_M663
+ESRRG_2	ESRRG_jolma_full_M664
+ESRRG_3	ESRRG_jolma_full_M665
+ESRRA_known10	ESRRA_6	Esrra_jolma_DBD_M666
+ESRRA_known11	ESRRA_7	Esrra_jolma_DBD_M667
+HNF4_known16	HNF4A_9	HNF4A_jolma_DBD_M668
+HNF4_known17	HNF4A_10	HNF4A_jolma_DBD_M669
+HNF4_known18	HNF4A_11	HNF4A_jolma_full_M670
+HNF4_known19	HNF4A_12	HNF4A_jolma_full_M671
+HNF4_known20	HNF4A_13	HNF4A_jolma_full_M672
+HNF4_known21	HNF4A_14	HNF4A_jolma_full_M673
+HNF4_known22	HNF4A_15	Hnf4a_jolma_DBD_M674
+NR2C2_known1	NR2C2_1	NR2C2_jolma_DBD_M675
+NR2E1_1	NR2E1_jolma_full_M676
+NR2E1_2	NR2E1_jolma_full_M677
+HNF4_known23	NR2F1_2	NR2F1_jolma_DBD_M678
+HNF4_known24	NR2F1_3	NR2F1_jolma_DBD_M679
+HNF4_known25	NR2F1_4	NR2F1_jolma_full_M680
+NR2F6_1	NR2F6_jolma_DBD_M681
+NR2F6_2	NR2F6_jolma_DBD_M682
+NR2F6_3	NR2F6_jolma_full_M683
+NR3C1_known18	NR3C1_7	NR3C1_jolma_DBD_M684
+NR3C2_1	NR3C2_jolma_DBD_M685
+NR4A_known2	NR4A2_2	NR4A2_jolma_full_M686
+NR4A_known3	NR4A2_3	NR4A2_jolma_full_M687
+NR4A_known4	NR4A2_4	NR4A2_jolma_full_M688
+NR2E1_3	Nr2e1_jolma_DBD_M689
+NR2E1_4	Nr2e1_jolma_DBD_M690
+NR2F6_4	Nr2f6_jolma_DBD_M691
+NR2F6_5	Nr2f6_jolma_DBD_M692
+RARA_2	RARA_jolma_DBD_M693
+RARA_3	RARA_jolma_DBD_M694
+RARA_4	RARA_jolma_DBD_M695
+RARA_5	RARA_jolma_full_M696
+RARA_6	RARA_jolma_full_M697
+RARA_7	RARA_jolma_full_M698
+RARG_1	RARG_jolma_DBD_M699
+RARG_2	RARG_jolma_DBD_M700
+RARG_3	RARG_jolma_DBD_M701
+RARG_4	RARG_jolma_full_M702
+RARG_5	RARG_jolma_full_M703
+RARG_6	RARG_jolma_full_M704
+RORA_6	RORA_jolma_DBD_M705
+RORA_7	RORA_jolma_DBD_M706
+RXRA_known10	RXRA_6	RXRA_jolma_DBD_M707
+RXRA_known11	RXRA_7	RXRA_jolma_DBD_M708
+RXRA_known12	RXRA_8	RXRA_jolma_full_M709
+RXRA_known13	RXRA_9	RXRA_jolma_full_M710
+RXRB_1	RXRB_jolma_DBD_M711
+RXRG_1	RXRG_jolma_DBD_M712
+RXRG_2	RXRG_jolma_DBD_M713
+RXRG_3	RXRG_jolma_full_M714
+RARA_8	Rara_jolma_DBD_M715
+RARA_9	Rara_jolma_DBD_M716
+RARA_10	Rara_jolma_DBD_M717
+RARB_1	Rarb_jolma_DBD_M718
+RARB_2	Rarb_jolma_DBD_M719
+RARB_3	Rarb_jolma_DBD_M720
+RARG_7	Rarg_jolma_DBD_M721
+RARG_8	Rarg_jolma_DBD_M722
+RARG_9	Rarg_jolma_DBD_M723
+RXRA_known14	RXRA_10	Rxra_jolma_DBD_M724
+RXRA_known15	RXRA_11	Rxra_jolma_DBD_M725
+RXRB_2	Rxrb_jolma_DBD_M726
+THRA_1	THRA_jolma_FL_M727
+THRB_1	THRB_jolma_DBD_M728
+THRB_2	THRB_jolma_DBD_M729
+THRB_3	THRB_jolma_DBD_M730
+VDR_5	VDR_jolma_full_M731
+VDR_6	Vdr_jolma_DBD_M732
+TP63_1	TP63_jolma_DBD_M733
+TP53_5	Tp53_jolma_DBD_M734
+TP53_6	Tp53_jolma_DBD_M735
+TP53_7	Tp53_jolma_DBD_M736
+TP73_1	Tp73_jolma_DBD_M737
+GMEB2_4	GMEB2_jolma_DBD_M738
+PITX1_4	PITX1_jolma_full_M739
+EGR1_known12	EGR1_7	Egr1_jolma_mouse_M740
+MTF1_3	MTF1_jolma_DBD_M741
+PRDM4_1	PRDM4_jolma_full_M742
+ZBTB49_1	ZBTB49_jolma_DBD_M743
+ZNF232_1	ZNF232_jolma_full_M744
+ZNF282_1	ZNF282_jolma_DBD_M745
+ZSCAN16_1	ZNF435_jolma_full_M746
+ZNF713_1	ZNF713_jolma_full_M747
+CPEB1_1	CPEB1_jolma_full_M748
+E2F_known27	E2F1_21	E2F1_jolma_DBD_M749
+E2F_known28	E2F1_22	E2F1_jolma_DBD_M750
+E2F2_4	E2F2_jolma_DBD_M751
+E2F_known29	E2F4_3	E2F4_jolma_DBD_M752
+E2F_known30	E2F4_4	E2F4_jolma_DBD_M753
+E2F8_1	E2F8_jolma_DBD_M754
+SOX10_3	SOX10_jolma_full_M755
+SOX10_4	SOX10_jolma_full_M756
+SOX10_5	SOX10_jolma_full_M757
+SOX10_6	SOX10_jolma_full_M758
+SOX10_7	SOX10_jolma_full_M759
+SOX14_2	SOX14_jolma_DBD_M760
+SOX14_3	SOX14_jolma_DBD_M761
+SOX14_4	SOX14_jolma_DBD_M762
+SOX15_2	SOX15_jolma_full_M763
+SOX15_3	SOX15_jolma_full_M764
+SOX15_4	SOX15_jolma_full_M765
+SOX18_2	SOX18_jolma_full_M766
+SOX18_3	SOX18_jolma_full_M767
+SOX18_4	SOX18_jolma_full_M768
+SOX21_2	SOX21_jolma_DBD_M769
+SOX21_3	SOX21_jolma_DBD_M770
+SOX21_4	SOX21_jolma_DBD_M771
+SOX21_5	SOX21_jolma_DBD_M772
+SOX2_2	SOX2_jolma_DBD_M773
+SOX2_3	SOX2_jolma_DBD_M774
+SOX2_4	SOX2_jolma_DBD_M775
+SOX2_5	SOX2_jolma_full_M776
+SOX2_6	SOX2_jolma_full_M777
+SOX2_7	SOX2_jolma_full_M778
+SOX4_2	SOX4_jolma_DBD_M779
+SOX7_2	SOX7_jolma_full_M780
+SOX7_3	SOX7_jolma_full_M781
+SOX7_4	SOX7_jolma_full_M782
+SOX8_2	SOX8_jolma_DBD_M783
+SOX8_3	SOX8_jolma_DBD_M784
+SOX8_4	SOX8_jolma_DBD_M785
+SOX8_5	SOX8_jolma_DBD_M786
+SOX8_6	SOX8_jolma_DBD_M787
+SOX8_7	SOX8_jolma_full_M788
+SOX8_8	SOX8_jolma_full_M789
+SOX8_9	SOX8_jolma_full_M790
+SOX9_4	SOX9_jolma_full_M791
+SOX9_5	SOX9_jolma_full_M792
+SOX9_6	SOX9_jolma_full_M793
+SOX9_7	SOX9_jolma_full_M794
+SOX9_8	SOX9_jolma_full_M795
+SOX9_9	SOX9_jolma_full_M796
+SRY_5	SRY_jolma_DBD_M797
+SRY_6	SRY_jolma_DBD_M798
+SRY_7	SRY_jolma_DBD_M799
+SRY_8	SRY_jolma_DBD_M800
+SOX10_8	Sox10_jolma_DBD_M801
+SOX10_9	Sox10_jolma_DBD_M802
+SOX10_10	Sox10_jolma_DBD_M803
+SOX11_2	Sox11_jolma_DBD_M804
+SOX17_4	Sox17_jolma_DBD_M805
+SOX17_5	Sox17_jolma_DBD_M806
+SOX1_2	Sox1_jolma_DBD_M807
+SOX1_3	Sox1_jolma_DBD_M808
+SOX1_4	Sox1_jolma_DBD_M809
+SOX1_5	Sox1_jolma_DBD_M810
+SOX3_1	Sox3_jolma_DBD_M811
+SOX3_2	Sox3_jolma_DBD_M812
+SOX3_3	Sox3_jolma_DBD_M813
+TBX20_5	TBX20_jolma_full_M814
+MSC_1	MSC_jolma_full_M815
+TFEC_1	TFEC_jolma_DBD_M816
+CREB3L1_4	CREB3L1_jolma_full_M817
+HNF4_known26	NR2F1_5	NR2F1_jolma_DBD_M818
